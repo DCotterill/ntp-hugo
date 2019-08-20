@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!--<script defer src="https://use.fontawesome.com/releases/v5.0.7/css/all.css"></script>-->
+    <title>Di's NTP Site</title>
+
+    <link rel="stylesheet" href="/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
+</head>
+<body>
+
+
+    <div class="wrapper">
+        <div class="header">
+            <div class="company">
+                <h1>EAT WHOLE FOODS - LIVE LONGER</h1>
+                <p>DONT EAT PROCESSED SHIT</p>
+            </div>
+        </div>
+        <nav class="main-nav">
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Recipes</a></li>
+                <li><a href="/blog">Blog</a></li>
+                <li><a href="#">Contact</a></li>
+           </ul>
+        </nav>
+
+       <section class="top-blog-container">
+            <header class="blog-showcase">
+                <h1>Lorem ipsum dolor sit amet.</h1>
+            </header>
+        </section>
+        <section class="blog">
+          <section class="side-content">RIGHT SIDE</section>
+          {{.Content}}
+          {{ range .Pages }}
+          <section class="blog-image">
+              <img src="{{.Params.image}}" alt="">
+          </section>
+          <section class="blog-details">
+               <div class="blog-title">
+                    <a href="{{.URL}}">{{.Title}}</a>
+               </div>
+               <div class="blog-date">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</div>
+               <div class="blog-tags">{{ if .Params.tags }}<strong>Tags:</strong> {{range .Params.tags}}<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
+               <div class="blog-categories">{{ if .Params.categories }}<strong>Categories:</strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
+               <div class="blog-moods">{{ if .Params.moods }}<strong>Moods:</strong> {{range .Params.moods}}<a href="{{ "/moods/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
+
+               <p class="blog-summary">{{.Summary}}</p>
+          </section>
+          {{ end }}
+        </section>
+        <footer>
+            <p>Di's Fabulous NTP site &copy; 2019</p>
+        </footer>
+    </div> <!-- wrapper ends -->
+
+</body>
+</html>

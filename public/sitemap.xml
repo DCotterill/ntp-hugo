@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://laughing-liskov-db83d0.netlify.com/categories/</loc>
-    <priority>0</priority>
+    <loc>https://laughing-liskov-db83d0.netlify.com/post/my-first-post/</loc>
+    <lastmod>2019-08-15T13:59:42+10:00</lastmod>
   </url>
   
   <url>
     <loc>https://laughing-liskov-db83d0.netlify.com/</loc>
+    <lastmod>2019-08-15T13:59:42+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laughing-liskov-db83d0.netlify.com/post/</loc>
+    <lastmod>2019-08-15T13:59:42+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laughing-liskov-db83d0.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   

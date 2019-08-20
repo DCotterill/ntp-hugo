@@ -2,4 +2,7 @@ baseURL = "https://laughing-liskov-db83d0.netlify.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ga-hugo-theme"
+summarylength = 40
+disqusShortname = "NTP-hugo"
+
 
