@@ -1,7 +1,7 @@
 ---
 title: "Aaa"
 date: 2019-08-19T12:34:20+10:00
-draft: true
+draft: false
 Image: /blog/images/blog-1.jpeg
 ---
 
