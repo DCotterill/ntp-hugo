@@ -1,8 +1,46 @@
 baseURL = "https://laughing-liskov-db83d0.netlify.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
 theme = "ga-hugo-theme"
 summarylength = 40
 disqusShortname = "NTP-hugo"
 
+[params]
+    title = "EAT WHOLE FOODS - LIVE LONGER"
+    subtitle = "DON'T EAT PROCESSED STUFF"
+
+    maintagline = "Blah blah.... blah things"
+
+    footer = "Di's fabulous NTP site 2019"
+
+[menu]
+
+    [[menu.main]]
+        identifier = "home"
+        name="Home"
+        url="/"
+        weight = 10
+
+    [[menu.main]]
+        identifier = "services"
+        name="Services"
+        url="/services"
+        weight=20
+
+    [[menu.main]]
+        identifier = "recipes"
+        name="Recipes"
+        url="/recipes"
+        weight=30
+
+    [[menu.main]]
+        identifier = "blog"
+        name="Blog"
+        url="/blog"
+        weight=40
+
+    [[menu.main]]
+        identifier = "contact"
+        name="Contact"
+        url="/contact"
+        weight=50
 

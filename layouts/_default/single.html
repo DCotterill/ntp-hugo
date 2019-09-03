@@ -30,18 +30,20 @@
                 <li><a href="#">Contact</a></li>
             </ul>
         </nav>
-    <div class="blog-post">
-          <h1>{{.Title}}</h1>
-          <img src="{{ .Params.image}}"/>
-          <h2>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</h2>
-          <div>{{.Content}}</div>
-    </div>
-    <div class="blog-comments">
-        {{ template "_internal/disqus.html" . }}
-    </div>
-    <footer>
-        <p>Di's Fabulous NTP site &copy; 2019</p>
-    </footer>
+        <div class="nav-separator">
+        </div>
+        <div class="blog-post">
+              <h1>{{.Title}}</h1>
+              <img src="{{ .Params.image}}"/>
+              <h2>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</h2>
+              <div>{{.Content}}</div>
+        </div>
+        <div class="blog-comments">
+            {{ template "_internal/disqus.html" . }}
+        </div>
+        <footer>
+            <p>Di's Fabulous NTP site &copy; 2019</p>
+        </footer>
     </div> <!-- wrapper ends -->
 
 </body>

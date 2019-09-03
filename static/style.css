@@ -81,6 +81,7 @@ img {
 .main-nav {
     /*box-shadow: var(--shadow);*/
 }
+
 .main-nav ul {
     font-family: Oswald, sans-serif;
     margin: 0px 80px;
@@ -107,10 +108,21 @@ img {
     color: var(--silverpink);
 }
 
+
+.nav-separator {
+    background: var(--romansilver);
+    display:grid;
+    grid-template-columns: 5fr;
+    margin: 0px 0px;
+    box-shadow: var(--shadow);
+    height: 3px;
+}
+
 .top-container {
     display: grid;
     grid-gap:10px;
     grid-template-columns: 5fr;
+    box-shadow: var(--shadow);
 }
 
 .top-blog-container {

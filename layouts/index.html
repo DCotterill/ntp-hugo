@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <!--<script defer src="https://use.fontawesome.com/releases/v5.0.7/css/all.css"></script>-->
-    <title>Di's NTP Site</title>
+    <title>{{.Site.Params.title}}</title>
 
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
@@ -17,22 +17,23 @@
     <div class="wrapper">
         <div class="header">
             <div class="company">
-                <h1>EAT WHOLE FOODS - LIVE LONGER</h1>
-                <p>DONT EAT PROCESSED SHIT</p>
+                <h1>{{.Site.Params.title}}</h1>
+                <p>{{.Site.Params.subtitle}}</p>
             </div>
         </div>
+
         <nav class="main-nav">
+            {{ $currentPage := . }}
             <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Recipes</a></li>
-                <li><a href="/blog">Blog</a></li>
-                <li><a href="#">Contact</a></li>
+                {{ range .Site.Menus.main }}
+                <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                {{ end }}
+
             </ul>
         </nav>
         <section class="top-container">
             <header class="showcase">
-                <h1>Lorem ipsum dolor sit amet.</h1>
+                <h1>{{.Site.Params.maintagline}}</h1>
                 <a href="#" class="btn">Book a meeting</a>
             </header>
         </section>
@@ -42,31 +43,19 @@
         </section>
 
         <section class="blog-boxes">
+            {{.Content}}
+            {{ range .Pages }}
             <div class="box">
-                <img src="https://source.unsplash.com/random/200x200" alt="" class="blog-image">
-                <h3 class="blog-title">Lorem ipsum dolor sit amet.</h3>
-                <p class="blog-summary">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum impedit iste laboriosam, non porro sit?</p>
+                <img src="{{.Params.image}}" alt="" class="blog-image">
+                <h3 class="blog-title">{{.Title}}</h3>
+                <p class="blog-summary">{{.Summary}}</p>
             </div>
-            <div class="box">
-                <img src="https://source.unsplash.com/random/200x201" alt="" class="blog-image">
-                <h3 class="blog-title">Lorem ipsum dolor.</h3>
-                <p class="blog-summary">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aut eius natus nemo, officiis omnis possimus quam quidem voluptas voluptatum!</p>
-            </div>
-            <div class="box">
-                <img src="https://source.unsplash.com/random/200x202" alt="" class="blog-image">
-                <h3 class="blog-title">Lorem ipsum dolor sit.</h3>
-                <p class="blog-summary">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto, dolore, non. Blanditiis consequatur deleniti eum, explicabo labore magni molestias odio odit perspiciatis soluta, voluptate voluptates.</p>
-            </div>
-            <div class="box">
-                <img src="https://source.unsplash.com/random/200x203" alt="" class="blog-image">
-                <h3 class="blog-title">Lorem ipsum dolor sit amet, consectetur.</h3>
-                <p class="blog-summary">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa cumque doloremque maxime qui tenetur velit?</p>
-            </div>
+            {{ end }}
 
         </section>
 
         <footer>
-            <p>Di's Fabulous NTP site &copy; 2019</p>
+            <p>{{.Site.Params.footer}}</p>
         </footer>
     </div> <!-- wrapper ends -->
 
