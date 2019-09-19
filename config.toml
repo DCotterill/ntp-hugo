@@ -5,12 +5,12 @@ summarylength = 40
 disqusShortname = "NTP-hugo"
 
 [params]
-    title = "EAT WHOLE FOODS - LIVE LONGER"
-    subtitle = "DON'T EAT PROCESSED STUFF"
+    title = "HAPPY GREEN SPROUT"
+    subtitle = ""
 
-    maintagline = "Blah blah.... blah things"
+    maintagline = "Happy and healthy with whole foods."
 
-    footer = "Di's fabulous NTP site 2019"
+    footer = "Happy Green Sprout 2019"
 
 [menu]
 
