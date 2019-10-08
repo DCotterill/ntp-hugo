@@ -5,6 +5,12 @@
     --dark: #333;
     --light: #fff;
     --shadow: 0 1px 5px rgba(104,104,104,0.8);
+    --grey-asparagus: #3E5641;
+    --moonstone-blue: #75B9BE;
+    --medium-spring-bud: #C7CB85;
+    --maximum-green-yellow: #D4DB55;
+    --chestnut: #A24936;
+    --tango-pink: #EE7674;
     --isabelline: #F3E8EE;
     --romansilver: #7FA796;
     --ashgrey: #BACDB0;
@@ -21,7 +27,7 @@ html {
 }
 
 body {
-    background: #var(--isabelline);
+    background: var(--medium-spring-bud);
     margin: 0px 0px;
     line-height: 1.4;
 }
@@ -32,7 +38,7 @@ p {
 }
 
 .btn {
-    background: var(--deepspacesparkle);
+    background: var(--moonstone-blue);
     color: var(--isabelline);
     padding: 0.6rem 1.3rem;
     text-decoration:none;
@@ -49,7 +55,7 @@ img {
 }
 
 .header {
-    background: var(--romansilver);
+    background: var(--moonstone-blue);
     display:grid;
     grid-template-columns: 5fr;
     margin: 0px 0px;
@@ -63,7 +69,7 @@ img {
 }
 
 .company h1 {
-    color: var(--isabelline);
+    color: var(--tango-pink);
     margin-bottom: 0px;
 }
 
@@ -133,7 +139,8 @@ img {
 
 .showcase {
     min-height: 400px;
-    background: url(img/vegetables-1212845_1920.jpg);
+    /*background: url(img/vegetables-1212845_1920.jpg);*/
+    background: url(img/cook-2364221_1920.jpg);
     background-size: cover;
     background-position: center;
     padding: 3rem;
@@ -175,7 +182,7 @@ img {
 }
 
 .box {
-    background: var(--ashgrey);
+    background: var(--moonstone-blue);
     text-align: center;
     padding: 1.5rem 2rem;
     box-shadow: var(--shadow);
@@ -217,7 +224,7 @@ img {
 
 footer {
     margin-top: 2rem;
-    background: var(--deepspacesparkle);
+    background: var(--moonstone-blue);
     color: var(--ashgrey);
     text-align:center;
     padding: 1rem;
