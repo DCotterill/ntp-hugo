@@ -23,23 +23,44 @@
         </div>
         <nav class="main-nav">
             <ul>
-                <li><a href="#">Home</a></li>
+                <li><a href="/">Home</a></li>
                 <li><a href="#">Services</a></li>
                 <li><a href="#">Recipes</a></li>
-                <li><a href="#">Blog</a></li>
+                <li><a href="/blog">Blog</a></li>
                 <li><a href="#">Contact</a></li>
             </ul>
         </nav>
-     <div class="blog-post">
+    <div class="blog-post">
           <h1>My First Post</h1>
           <img src="/blog/images/blog-1.jpeg"/>
-          <div style="color:grey; font-size:16px;">Thursday, Aug 15, 2019</div>
-          <div style="color:grey; font-size:16px;"></div>
-          <div style="font-size:18px;"></div>
-     </div>
-       <footer>
-            <p>Di's Fabulous NTP site &copy; 2019</p>
-        </footer>
+          <h2>Thursday, Aug 15, 2019</h2>
+          <div></div>
+    </div>
+    <div class="blog-comments">
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "NTP-hugo" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    </div>
+    <footer>
+        <p>Di's Fabulous NTP site &copy; 2019</p>
+    </footer>
     </div> 
 
 </body>
