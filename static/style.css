@@ -91,7 +91,7 @@ img {
 .main-nav ul {
     font-family: Oswald, sans-serif;
     margin: 0px 80px;
-    display:grid;
+    display: grid;
     grid-gap: 10px;
     padding:0;
     list-style: none;
@@ -99,7 +99,6 @@ img {
 }
 
 .main-nav a {
-    /*background: var(--primary);*/
     display: block;
     text-decoration: none;
     padding: 0rem;
@@ -115,14 +114,14 @@ img {
 }
 
 
-.nav-separator {
-    background: var(--romansilver);
-    display:grid;
-    grid-template-columns: 5fr;
-    margin: 0px 0px;
-    box-shadow: var(--shadow);
-    height: 3px;
-}
+/*.nav-separator {*/
+    /*background: var(--romansilver);*/
+    /*display:grid;*/
+    /*grid-template-columns: 5fr;*/
+    /*margin: 0px 0px;*/
+    /*box-shadow: var(--shadow);*/
+    /*height: 3px;*/
+/*}*/
 
 .top-container {
     display: grid;
@@ -151,11 +150,57 @@ img {
     box-shadow: var(--shadow);
 }
 
+.main-content {
+    display: grid;
+    grid-gap:100px;
+    justify-items: center;
+    align-items: center;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    padding: 5rem;
+}
+
+.index-image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.index-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.rounded-circle {
+  border-radius: 50% !important;
+}
+
+.index-image {
+    min-height: 300px;
+}
+
+/*.index-services {*/
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*align-items: center;*/
+    /*justify-content: center;*/
+/*}*/
+
+/*.index-contact {*/
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*align-items: center;*/
+    /*justify-content: center;*/
+/*}*/
+
 .blog-showcase {
-    min-height: 200px;
-    background: url(/img/vegetables-1212845_1920.jpg);
+    min-height: 1px;
+    max-height: 1px;
+    background: url(/img/cook-2364221_1920.jpg);
     background-size: cover;
-    background-position: center;
+    background-position: top;
     padding: 3rem;
     display: flex;
     flex-direction: column;
@@ -165,10 +210,20 @@ img {
 }
 
 .showcase h1 {
-    font-size: 4rem;`
-    font-style: italic;
+    font-size: 4rem;
+    /*font-style: italic;*/
 
     margin-top:0;
+    /*margin-bottom:0;*/
+    color: var(--isabelline);
+    text-align:center;
+}
+
+.blog-showcase h1 {
+    font-size: 2rem;
+    /*font-style: italic;*/
+
+    margin-top:10;
     /*margin-bottom:0;*/
     color: var(--isabelline);
     text-align:center;
