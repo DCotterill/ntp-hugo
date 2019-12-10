@@ -2,7 +2,7 @@ baseURL = "https://laughing-liskov-db83d0.netlify.com/"
 languageCode = "en-us"
 theme = "ga-hugo-theme"
 summarylength = 40
-disqusShortname = "happy-greeen-sprout"
+disqusShortname = "happy-green-sprout"
 
 [params]
     title = "HAPPY GREEN SPROUT"
