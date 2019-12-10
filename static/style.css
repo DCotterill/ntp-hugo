@@ -152,47 +152,91 @@ img {
 
 .main-content {
     display: grid;
-    grid-gap:100px;
-    justify-items: center;
-    align-items: center;
+    grid-gap:80px;
+    justify-items: start;
+    align-items: start;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    padding: 5rem;
+    padding: 3rem;
 }
 
 .index-image {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-content: center;
     justify-content: center;
+    min-height: 280px;
 }
+
+/*.index-image {*/
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*align-content: start;*/
+    /*justify-content: start;*/
+/*}*/
 
 .index-content {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: start;
 }
 
 .rounded-circle {
   border-radius: 50% !important;
 }
 
-.index-image {
-    min-height: 300px;
+.index-about {
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
 }
 
-/*.index-services {*/
-    /*display: flex;*/
-    /*flex-direction: column;*/
-    /*align-items: center;*/
-    /*justify-content: center;*/
-/*}*/
+.index-services {
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+}
 
-/*.index-contact {*/
-    /*display: flex;*/
-    /*flex-direction: column;*/
-    /*align-items: center;*/
-    /*justify-content: center;*/
+.index-contact {
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: start;
+    align-content: left;
+}
+
+.icons-image {
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: left
+    /*padding: 0.5rem;*/
+    /*align-content: left;*/
+}
+
+
+
+.icons-image img {
+    padding: 0.75rem;
+}
+
+
+
+.index-image a {
+    text-decoration: none;
+}
+
+.icons-image p {
+    text-decoration: none;
+}
+
+/*.icons-text {*/
+    /*text-align:center;*/
 /*}*/
 
 .blog-showcase {
