@@ -37,6 +37,17 @@ p {
     font-weight: normal;
 }
 
+
+a {
+    text-decoration: none;
+    color: var(--dark);
+    font-weight: bold;
+}
+
+a:hover {
+    color: var(--silverpink);
+}
+
 .btn {
     background: var(--moonstone-blue);
     color: var(--isabelline);
