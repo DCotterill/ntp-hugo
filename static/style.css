@@ -225,18 +225,16 @@ img {
     display: flex;
     flex-direction: row;
     align-items:center;
-    justify-content: left
-    /*padding: 0.5rem;*/
-    /*align-content: left;*/
+    justify-content: left;
 }
-
-
 
 .icons-image img {
     padding: 0.75rem;
 }
 
-
+.svg {
+    fill: #3E5641;
+}
 
 .index-image a {
     text-decoration: none;
@@ -288,7 +286,7 @@ img {
     margin: 50px; 10px;
     display:grid;
     grid-gap: 40px;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr))
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr))
 }
 
 .box {
@@ -312,6 +310,7 @@ img {
 
 .blog-image {
     grid-column: 1;
+    max-height: 200px;
 }
 
 .blog-details {
