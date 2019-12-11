@@ -23,5 +23,3 @@ Image by <a href="https://pixabay.com/users/PhotoMIX-Company-1546875/?utm_source
 
 https://pixabay.com/photos/mineral-water-lime-mint-glass-1532300/
 
-
-[test](http://www.google.com) 
