@@ -333,8 +333,8 @@ img {
 .instagram-pics {
     margin: 50px; 10px;
     display:grid;
-    grid-gap: 40px;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr))
+    grid-gap: 15px;
+    grid-template-columns: repeat(auto-fit,  220px)
 }
 
 .instagram-pic {
@@ -342,7 +342,8 @@ img {
     text-align: center;
     padding: 1.5rem 2rem;
     box-shadow: var(--shadow);
-    height: 200px;
+    height: 150px;
+    width: 150px;
 }
 
 footer {
