@@ -5,7 +5,7 @@ draft: false
 Image: /blog/images/di-headshot.jpeg
 ---
 
-Hi, I’m Diane Cotterill and I live in Sydney on the Northern Beaches of Sydney with my husband and two kids. I’m passionate about improving health through nutrition, eating whole foods and a variety of herbs and spices to maximize health and longevity, whilst having fun and enjoying life along the way. I love finding food hacks for quick nutritional wins as well as incrementally improving food choices everyday for both my family and my clients. Currently I’m studying to become a Nutritional Therapy Practitioner and I’d love to help you on your journey to a longer, healthier  and happy life.
+Hi, I’m Diane Cotterill and I live in Sydney on the Northern Beaches with my husband and two kids. I’m passionate about improving health through nutrition, eating whole foods and a variety of herbs and spices to maximize health and longevity, whilst having fun and enjoying life along the way. I love finding food hacks for quick nutritional wins as well as incrementally improving food choices everyday for both my family and my clients. Currently I’m studying to become a Nutritional Therapy Practitioner and I’d love to help you on your journey to a longer, healthier  and happy life.
 
 __So how did I come to be here?__
 
