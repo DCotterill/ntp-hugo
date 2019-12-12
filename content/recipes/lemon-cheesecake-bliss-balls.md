@@ -2,7 +2,7 @@
 title: "Lemon Cheesecake Bliss Balls"
 date: 2019-09-05T12:34:20+10:00
 draft: false
-Image: /recipes/images/choc-bliss-balls.JPG
+Image: /recipes/images/lemon-bliss-balls.JPG
 ---
 
 Ever since I realised that I am sensitive to dairy products – and cream in particular – I’ve been trying to dream up alternatives to cheesecake as I love cheesecake and it has been my go-to dessert for Christmas for quite a few years now. I haven’t found a true replacement recipe for cheesecake (watch this space on that one) but for now, here are my cheesecake bliss balls that can serve as a bite-sized ball of lemony magic.

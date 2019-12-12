@@ -18,7 +18,7 @@ __High Cortisol equates to low sex hormones__
 
 Typically if we are not in a state of stress, the body will utilise cholesterol and transition pregnenolone and progesterone into both cortisol AND the sex hormones such as DHEA, estrogen, and testosterone.
 
-When our body is under high stress, the body feels that it needs to create more cortisol and it does so through an action known as ‘Pregnenolone steal’ The body uses its innate intelligence to determine that it can’t rest & repair as it is under a stressful ‘attack’. In this way it will funnel all of the pregnenolone and progesterone into producing cortisol, resulting in a lack of sex hormones. The imbalance of having high in cortisol and not producing enough sex hormones, means that we may experience several unpleasant signs and symptoms including:
+When our body is under high stress, the body feels that it needs to create more cortisol and it does so through an action known as ‘Pregnenolone steal’. The body uses its innate intelligence to determine that it can’t rest & repair as it is under a stressful ‘attack’. In this way it will funnel all of the pregnenolone and progesterone into producing cortisol, resulting in a lack of sex hormones. The imbalance of having high in cortisol and not producing enough sex hormones, means that we may experience several unpleasant signs and symptoms including:
 
 •	Low libido
 
