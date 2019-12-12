@@ -4,6 +4,7 @@ theme = "ga-hugo-theme"
 summarylength = 40
 disqusShortname = "happy-green-sprout"
 
+
 [params]
     title = "HAPPY GREEN SPROUT"
     subtitle = ""
@@ -11,6 +12,8 @@ disqusShortname = "happy-green-sprout"
     maintagline = "Happy and healthy with whole foods."
 
     footer = "Happy Green Sprout 2019"
+
+    inst_access = "6231435589.1677ed0.332c3e67344341199033de030d5fb284"
 
 [menu]
 

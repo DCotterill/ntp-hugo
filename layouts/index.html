@@ -99,7 +99,24 @@
                 <p class="blog-summary">{{.Summary}}</p>
             </div>
             {{ end }}
+        </section>
+        <section class="instafeed">
+            <div class="instagram-pics">
+              {{ $dataJ := getJSON (printf "https://api.instagram.com/v1/users/self/media/recent/?access_token=%s" .Site.Params.inst_access) }}
+              {{ range $dataJ.data }}
+                <a href="{{ .link }}" target="_new">
 
+                <div class="instagram-pic"
+                     style="background: url({{ .images.standard_resolution.url }}) no-repeat center top;background-size:cover;">
+                <!--<p>-->
+                    <!--{{ with .caption }}{{ .text }}<br>-->
+                    <!--<br>{{ end }}-->
+                    <!--<span class="play-date" data-date="{{ .created_time }}"></span>-->
+                <!--</p>-->
+            </div>
+        </a>
+        {{ end }}
+    </div>
         </section>
 
         <footer>
