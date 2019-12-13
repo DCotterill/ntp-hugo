@@ -90,7 +90,7 @@
 
         <section class="blog-boxes">
             {{.Content}}
-            {{ range .Pages }}
+            {{ range first 6 .Pages }}
             <div class="box">
                 <a href="{{.URL}}">
                     <img src="{{.Params.image}}" alt="" class="blog-image">
@@ -103,7 +103,7 @@
         <section class="instafeed">
             <div class="instagram-pics">
               {{ $dataJ := getJSON (printf "https://api.instagram.com/v1/users/self/media/recent/?access_token=%s" .Site.Params.inst_access) }}
-              {{ range $dataJ.data }}
+              {{ range first 10 $dataJ.data }}
                 <a href="{{ .link }}" target="_new">
 
                 <div class="instagram-pic"
