@@ -16,25 +16,35 @@
     --ashgrey: #BACDB0;
     --silverpink: #C9ADA7;
     --deepspacesparkle: #475B63;
+    --platinum: rgba(232, 232, 232, 1);
+    --champagne-pink: rgba(232, 221, 215, 1);
+    --dust-storm: rgba(235, 207, 195, 1);
+    --spanish-gray: rgba(147, 167, 156, 1);
+    --dark-jungle-green: rgba(20, 33, 41, 1);
 }
 
 html {
     box-sizing: border-box;
-    font-family: Oswald, sans-serif;
+    font-family: Raleway;
+    /*font-family: Oswald, sans-serif;*/
     /*font-family: futura-pt, sans-serif;*/
-    font-weight: normal;
-    color: var(--deepspacesparkle);
+    /*font-weight: normal;*/
+    color: var(--dark-jungle-green);
 }
 
 body {
-    background: var(--medium-spring-bud);
+    background: var(--platinum);
     margin: 0px 0px;
     line-height: 1.4;
 }
 
 p {
-    font-family: sans-serif;
-    font-weight: normal;
+    color: rgb(0,0,0,0.73);
+    font-family: Montserrat;
+    fort-weight: light;
+    font-size:15px;
+    font-style:normal;
+    line-height:1.6;
 }
 
 
@@ -62,31 +72,89 @@ img {
 
 .wrapper {
     display: grid;
-    grid-gap: 20px;
+    grid-gap: 0px;
+}
+
+/*.header {*/
+    /*background: var(--moonstone-blue);*/
+    /*display:grid;*/
+    /*grid-template-columns: 5fr;*/
+    /*margin: 0px 0px;*/
+/*}*/
+
+/*.company {*/
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*align-items: center;*/
+    /*justify-content: center;*/
+/*}*/
+
+/*.company h1 {*/
+    /*color: var(--tango-pink);*/
+    /*margin-bottom: 0px;*/
+/*}*/
+
+/*.company p {*/
+    /*color: var(--silverpink);*/
+    /*margin-top: 0px;*/
+/*}*/
+
+/*.sticky {*/
+  /*position: fixed;*/
+/*}*/
+
+/*!* Navigation *!*/
+
+/*.main-nav {*/
+    /*!*box-shadow: var(--shadow);*!*/
+/*}*/
+
+/*.main-nav ul {*/
+    /*font-family: Raleway, sans-serif;*/
+    /*margin: 0px 80px;*/
+    /*display: grid;*/
+    /*grid-gap: 10px;*/
+    /*padding:0;*/
+    /*list-style: none;*/
+    /*grid-template-columns: repeat(5, 1fr);*/
+/*}*/
+
+/*.main-nav a {*/
+    /*display: block;*/
+    /*text-decoration: none;*/
+    /*padding: 0rem;*/
+    /*text-align: center;*/
+    /*color: var(--dark);*/
+    /*text-transform: uppercase;*/
+    /*font-size: 1.1rem;*/
+
+/*}*/
+
+/*.main-nav a:hover {*/
+    /*color: var(--silverpink);*/
+/*}*/
+
+.header img {
+    width:200px;
 }
 
 .header {
-    background: var(--moonstone-blue);
-    display:grid;
-    grid-template-columns: 5fr;
+    background: var(--platinum);
+    width:100%;
+    display:flex;
+    align-items:center;
+    justify-content:end;
     margin: 0px 0px;
+    padding: 10px;
+    box-shadow: var(--shadow);
+
 }
 
 .company {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
-.company h1 {
-    color: var(--tango-pink);
-    margin-bottom: 0px;
-}
-
-.company p {
-    color: var(--silverpink);
-    margin-top: 0px;
+    align-items: end;
+    justify-content: end;
 }
 
 .sticky {
@@ -96,15 +164,14 @@ img {
 /* Navigation */
 
 .main-nav {
-    /*box-shadow: var(--shadow);*/
 }
 
 .main-nav ul {
-    font-family: Oswald, sans-serif;
-    margin: 0px 80px;
+    font-family: Raleway, sans-serif;
+    margin: 0px 200px;
     display: grid;
-    grid-gap: 10px;
-    padding:0;
+    grid-gap: 40px;
+    padding:10px;
     list-style: none;
     grid-template-columns: repeat(5, 1fr);
 }
@@ -141,6 +208,13 @@ img {
     box-shadow: var(--shadow);
 }
 
+.top-single-container {
+    display: grid;
+    grid-gap:10px;
+    grid-template-columns: 5fr;
+    box-shadow: var(--shadow);
+}
+
 .top-blog-container {
     display: grid;
     grid-gap:10px;
@@ -148,17 +222,39 @@ img {
 }
 
 .showcase {
-    min-height: 400px;
-    /*background: url(img/vegetables-1212845_1920.jpg);*/
-    background: url(img/cook-2364221_1920.jpg);
-    background-size: cover;
-    background-position: center;
-    padding: 3rem;
+    min-height: 300px;
+    background: url(img/climbing-leaves.jpg);
+    padding-top: 4rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     box-shadow: var(--shadow);
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.single-showcase {
+    min-height: 100px;
+    background: url(img/climbing-leaves.jpg);
+    padding-top: 4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: var(--shadow);
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .main-content {
@@ -248,40 +344,47 @@ img {
     /*text-align:center;*/
 /*}*/
 
-.blog-showcase {
-    min-height: 1px;
-    max-height: 1px;
-    background: url(/img/cook-2364221_1920.jpg);
-    background-size: cover;
-    background-position: top;
-    padding: 3rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    box-shadow: var(--shadow);
+.blog-gap {
+    min-height:100px;
+    background: url(img/climbing-leaves.jpg);
+
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
 }
 
 .showcase h1 {
     font-size: 4rem;
-    /*font-style: italic;*/
+    font-style: bold;
 
-    margin-top:0;
+    /*margin-top:0;*/
     /*margin-bottom:0;*/
-    color: var(--isabelline);
+    color: var(--dark-jungle-green);
     text-align:center;
 }
 
-.blog-showcase h1 {
-    font-size: 2rem;
-    /*font-style: italic;*/
-
-    margin-top:10;
+.single-showcase h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    /*margin:0;*/
+    /*margin-top:50;*/
     /*margin-bottom:0;*/
-    color: var(--isabelline);
+    color: var(--dark-jungle-green);
     text-align:center;
 }
 
+.blog-box-background {
+    background: url(img/climbing-leaves.jpg);
+
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+
+}
 .blog-boxes {
     margin: 50px; 10px;
     display:grid;
@@ -290,7 +393,7 @@ img {
 }
 
 .box {
-    background: var(--moonstone-blue);
+    background: var(--platinum);
     text-align: center;
     padding: 1.5rem 2rem;
     box-shadow: var(--shadow);
@@ -338,7 +441,7 @@ img {
 }
 
 .instagram-pic {
-    background: var(--moonstone-blue);
+    background: var(--spanish-gray);
     text-align: center;
     padding: 1.5rem 2rem;
     box-shadow: var(--shadow);
@@ -348,8 +451,8 @@ img {
 
 footer {
     margin-top: 2rem;
-    background: var(--moonstone-blue);
-    color: var(--ashgrey);
+    background: var(--spanish-gray);
+    color: var(--dark-jungle-green);
     text-align:center;
     padding: 1rem;
 }

@@ -10,29 +10,29 @@
 
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap"
+          rel="stylesheet">
 </head>
 <body>
 
 
     <div class="wrapper">
-        <div class="header">
-            <div class="company-logo"></div>
+        <div class="header sticky">
             <div class="company">
                 <img src="/img/happy-green-sprout-4.png"/>
-                <!--<h1>{{.Site.Params.title}}</h1>-->
-                <p>{{.Site.Params.subtitle}}</p>
             </div>
+            <nav class="main-nav">
+                {{ $currentPage := . }}
+                <ul>
+                    {{ range .Site.Menus.main }}
+                    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                    {{ end }}
+
+                </ul>
+            </nav>
         </div>
 
-        <nav class="main-nav">
-            {{ $currentPage := . }}
-            <ul>
-                {{ range .Site.Menus.main }}
-                <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-                {{ end }}
-
-            </ul>
-        </nav>
         <section class="top-container">
             <header class="showcase">
                 <h1>{{.Site.Params.maintagline}}</h1>
@@ -87,19 +87,23 @@
                 </div>
             </div>
         </section>
+        <!--<section class="blog-gap">-->
 
-        <section class="blog-boxes">
-            {{.Content}}
-            {{ range first 6 .Pages }}
-            <div class="box">
-                <a href="{{.URL}}">
-                    <img src="{{.Params.image}}" alt="" class="blog-image">
-                    <h3 class="blog-title">{{.Title}}</h3>
-                </a>
-                <p class="blog-summary">{{.Summary}}</p>
-            </div>
-            {{ end }}
-        </section>
+        <!--</section>-->
+        <div class="blog-box-background">
+            <section class="blog-boxes">
+                {{.Content}}
+                {{ range first 6 .Pages }}
+                <div class="box">
+                    <a href="{{.URL}}">
+                        <img src="{{.Params.image}}" alt="" class="blog-image">
+                        <h3 class="blog-title">{{.Title}}</h3>
+                    </a>
+                    <p class="blog-summary">{{.Summary}}</p>
+                </div>
+                {{ end }}
+            </section>
+        </div>
         <section class="instafeed">
             <div class="instagram-pics">
               {{ $dataJ := getJSON (printf "https://api.instagram.com/v1/users/self/media/recent/?access_token=%s" .Site.Params.inst_access) }}
