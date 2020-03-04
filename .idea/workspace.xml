@@ -39,8 +39,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="540" column="21" selection-start-line="540" selection-start-column="21" selection-end-line="540" selection-end-column="21" />
+            <state relative-caret-position="225">
+              <caret line="540" column="25" selection-start-line="540" selection-start-column="25" selection-end-line="540" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -85,7 +85,6 @@
     <findStrings>
       <find>text-decoration</find>
       <find>blog-box</find>
-      <find>blog-boxes</find>
       <find>More</find>
       <find>grey-asp</find>
       <find>contact</find>
@@ -113,6 +112,7 @@
       <find>header</find>
       <find>h1</find>
       <find>padding</find>
+      <find>blog-boxes</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -620,8 +620,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="540" column="21" selection-start-line="540" selection-start-column="21" selection-end-line="540" selection-end-column="21" />
+        <state relative-caret-position="225">
+          <caret line="540" column="25" selection-start-line="540" selection-start-column="25" selection-end-line="540" selection-end-column="25" />
         </state>
       </provider>
     </entry>
