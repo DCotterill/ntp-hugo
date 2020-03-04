@@ -366,7 +366,7 @@ img {
 
     /*margin-top:0;*/
     /*margin-bottom:0;*/
-    color: var(--dark-jungle-green);
+    color: var(--platinum);
     text-align:center;
 }
 
@@ -376,7 +376,7 @@ img {
     /*margin:0;*/
     /*margin-top:50;*/
     /*margin-bottom:0;*/
-    color: var(--dark-jungle-green);
+    color: var(--platinum);
     text-align:center;
 }
 
@@ -531,6 +531,14 @@ footer {
 @media(max-width: 700px) {
     .showcase h1 {
         font-size: 2.5rem;
+    }
+
+    .main-content {
+        padding: 1rem;
+    }
+
+    .blog-boxes {
+        margin: 1rem;
     }
 
     /*.main-nav ul {*/
