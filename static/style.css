@@ -147,7 +147,7 @@ img {
 
 .showcase {
     min-height: 300px;
-    max-width: 100%
+    /*max-width: 100%*/
     background: url(img/climbing-leaves.jpg);
     padding-top: 4rem;
     padding-left: 3rem;
