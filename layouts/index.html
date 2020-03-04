@@ -39,29 +39,15 @@
                 {{ range .Site.Menus.main }}
                     <a class="menu" href="{{ .URL }}">{{ .Name }}</a></li>
                 {{ end }}
-              <!--<a href="#home" class="active">Home</a>-->
-              <!--<a href="#news">News</a>-->
-              <!--<a href="#contact">Contact</a>-->
-              <!--<a href="#about">About</a>-->
                   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
                     <i class="fa fa-bars"></i>
                   </a>
             </div>
-            <!--<nav class="main-nav" id="top-nav">-->
-                    <!--<a class="icon" href="javascript:void(0);"-->
-                           <!--onclick="myFunction()">-->
-                        <!--<i class="fa fa-bars"></i>-->
-                    <!--</a>-->
-                    <!--{{ range .Site.Menus.main }}-->
-                    <!--<a class="menu" href="{{ .URL }}">{{ .Name }}</a></li>-->
-                    <!--{{ end }}-->
-            <!--</nav>-->
         </div>
 
         <section class="top-container">
             <header class="showcase">
                 <h1>{{.Site.Params.maintagline}}</h1>
-                <!--<a href="#" class="btn">Book a meeting</a>-->
             </header>
         </section>
 
@@ -112,9 +98,7 @@
                 </div>
             </div>
         </section>
-        <!--<section class="blog-gap">-->
 
-        <!--</section>-->
         <div class="blog-box-background">
             <section class="blog-boxes">
                 {{.Content}}
@@ -129,23 +113,24 @@
                 {{ end }}
             </section>
         </div>
+
         <section class="instafeed">
             <div class="instagram-pics">
-              {{ $dataJ := getJSON (printf "https://api.instagram.com/v1/users/self/media/recent/?access_token=%s" .Site.Params.inst_access) }}
-              {{ range first 10 $dataJ.data }}
-                <a href="{{ .link }}" target="_new">
+                {{ $dataJ := getJSON (printf "https://api.instagram.com/v1/users/self/media/recent/?access_token=%s" .Site.Params.inst_access) }}
+                {{ range first 10 $dataJ.data }}
+                    <a href="{{ .link }}" target="_new">
 
-                <div class="instagram-pic"
-                     style="background: url({{ .images.standard_resolution.url }}) no-repeat center top;background-size:cover;">
-                <!--<p>-->
-                    <!--{{ with .caption }}{{ .text }}<br>-->
-                    <!--<br>{{ end }}-->
-                    <!--<span class="play-date" data-date="{{ .created_time }}"></span>-->
-                <!--</p>-->
+                        <div class="instagram-pic"
+                         style="background: url({{ .images.standard_resolution.url }}) no-repeat center top;background-size:cover;">
+                        <!--<p>-->
+                            <!--{{ with .caption }}{{ .text }}<br>-->
+                            <!--<br>{{ end }}-->
+                            <!--<span class="play-date" data-date="{{ .created_time }}"></span>-->
+                        <!--</p>-->
+                        </div>
+                    </a>
+                {{ end }}
             </div>
-        </a>
-        {{ end }}
-    </div>
         </section>
 
         <footer>
