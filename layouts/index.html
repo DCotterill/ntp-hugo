@@ -35,14 +35,14 @@
                 <!--<img src="/img/happygreensprout-script.png" />-->
                 <img src="/img/hgs-script-4.png" />
             </div>
-            <!--<div class="topnav" id="myTopnav">-->
-                <!--{{ range .Site.Menus.main }}-->
-                    <!--<a class="menu" href="{{ .URL }}">{{ .Name }}</a></li>-->
-                <!--{{ end }}-->
-                  <!--<a href="javascript:void(0);" class="icon" onclick="myFunction()">-->
-                    <!--<i class="fa fa-bars"></i>-->
-                  <!--</a>-->
-            <!--</div>-->
+            <div class="topnav" id="myTopnav">
+                {{ range .Site.Menus.main }}
+                    <a class="menu" href="{{ .URL }}">{{ .Name }}</a></li>
+                {{ end }}
+                  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                    <i class="fa fa-bars"></i>
+                  </a>
+            </div>
         </div>
 
         <section class="top-container">
