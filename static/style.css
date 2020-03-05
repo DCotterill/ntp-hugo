@@ -77,7 +77,6 @@ img {
 }
 
 .header {
-    /*width:100%;*/
     background: var(--platinum);
     display:flex;
     align-items:center;
@@ -95,7 +94,7 @@ img {
 }
 
 .sticky {
-  /*position: fixed;*/
+  position: fixed;
 }
 
 .topnav {
