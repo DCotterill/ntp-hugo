@@ -94,7 +94,8 @@ img {
 }
 
 .sticky {
-  position: fixed;
+    position: fixed;
+    width:inherit;
 }
 
 .topnav {
