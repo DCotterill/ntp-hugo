@@ -70,8 +70,8 @@ img {
 .wrapper {
     display: grid;
     grid-gap: 0px;
-    width:100%;
-    max-width:100%;
+    /*width:100%;*/
+    /*max-width:100%;*/
 }
 
 .header img {
@@ -97,8 +97,7 @@ img {
 
 .sticky {
     position: fixed;
-    width:inherit;
-    max-width:inherit;
+    width:99%;
 }
 
 .topnav {
