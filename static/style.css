@@ -158,7 +158,7 @@ img {
 .showcase {
     min-height: 300px;
     /*max-width: 100%*/
-    background: url(img/climbing-leaves.jpg);
+    background: url(img/climbing-leaves-1600.jpeg);
     padding-top: 4rem;
     padding-left: 3rem;
     padding-right: 3rem;
@@ -177,7 +177,7 @@ img {
 
 .single-showcase {
     min-height: 100px;
-    background: url(img/climbing-leaves.jpg);
+    background: url(img/climbing-leaves-1600.jpeg);
     padding-top: 4rem;
     display: flex;
     flex-direction: column;
