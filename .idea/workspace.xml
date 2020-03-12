@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09d5d942-271b-4136-828d-50473f01635a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layouts/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="57" column="45" selection-start-line="57" selection-start-column="45" selection-end-line="57" selection-end-column="45" />
+            <state relative-caret-position="449">
+              <caret line="88" column="20" selection-start-line="88" selection-start-column="20" selection-end-line="88" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -36,11 +36,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="161" column="9" selection-start-line="161" selection-start-column="9" selection-end-line="161" selection-end-column="9" />
+            <state relative-caret-position="209">
+              <caret line="283" column="32" lean-forward="true" selection-start-line="283" selection-start-column="32" selection-end-line="283" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -83,14 +83,11 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>grey-asp</find>
-      <find>contact</find>
       <find>font</find>
       <find>shadow</find>
       <find>fot</find>
       <find>footer</find>
       <find>p</find>
-      <find>jp</find>
       <find>Oswald</find>
       <find>oswald</find>
       <find>pink</find>
@@ -113,6 +110,9 @@
       <find>header</find>
       <find>climbin</find>
       <find>Di-lar</find>
+      <find>jp</find>
+      <find>cook</find>
+      <find>climbing</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -139,8 +139,8 @@
         <option value="$PROJECT_DIR$/content/contact.md" />
         <option value="$PROJECT_DIR$/layouts/_default/single.html" />
         <option value="$PROJECT_DIR$/layouts/_default/list.html" />
-        <option value="$PROJECT_DIR$/static/style.css" />
         <option value="$PROJECT_DIR$/layouts/index.html" />
+        <option value="$PROJECT_DIR$/static/style.css" />
       </list>
     </option>
   </component>
@@ -611,17 +611,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/style.css">
+    <entry file="file://$PROJECT_DIR$/layouts/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="161" column="9" selection-start-line="161" selection-start-column="9" selection-end-line="161" selection-end-column="9" />
+        <state relative-caret-position="449">
+          <caret line="88" column="20" selection-start-line="88" selection-start-column="20" selection-end-line="88" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/index.html">
+    <entry file="file://$PROJECT_DIR$/static/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="57" column="45" selection-start-line="57" selection-start-column="45" selection-end-line="57" selection-end-column="45" />
+        <state relative-caret-position="209">
+          <caret line="283" column="32" lean-forward="true" selection-start-line="283" selection-start-column="32" selection-end-line="283" selection-end-column="32" />
         </state>
       </provider>
     </entry>
