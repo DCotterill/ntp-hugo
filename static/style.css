@@ -114,7 +114,7 @@ img {
   /*background-color: #333;*/
 }
 
-.topnav-item {
+.topnav a {
     font-family: Raleway, sans-serif;
     list-style: none;
     float:left;
