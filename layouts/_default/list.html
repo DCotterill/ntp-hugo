@@ -19,31 +19,16 @@
     <div class="wrapper">
         <div class="header sticky" id="header">
             <div class="company">
-                <!--<img src="/img/happy-green-sprout-4.png"/>-->
-                <!--<img src="/img/happygreensprout-script.png" />-->
                 <img src="/img/hgs-script-4.png" />
             </div>
             <div class="topnav" id="myTopnav">
                 {{ range .Site.Menus.main }}
                     <a class="menu" href="{{ .URL }}">{{ .Name }}</a></li>
                 {{ end }}
-              <!--<a href="#home" class="active">Home</a>-->
-              <!--<a href="#news">News</a>-->
-              <!--<a href="#contact">Contact</a>-->
-              <!--<a href="#about">About</a>-->
                   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
                     <i class="fa fa-bars"></i>
                   </a>
             </div>
-            <!--<nav class="main-nav" id="top-nav">-->
-                    <!--<a class="icon" href="javascript:void(0);"-->
-                           <!--onclick="myFunction()">-->
-                        <!--<i class="fa fa-bars"></i>-->
-                    <!--</a>-->
-                    <!--{{ range .Site.Menus.main }}-->
-                    <!--<a class="menu" href="{{ .URL }}">{{ .Name }}</a></li>-->
-                    <!--{{ end }}-->
-            <!--</nav>-->
         </div>
 
         <section class="top-single-container">
@@ -52,7 +37,6 @@
         </section>
 
         <section class="blog">
-          <!--<section class="side-content"></section>-->
           {{ range .Paginator.Pages }}
           <section class="blog-item blog-image">
               <img src="{{.Params.image}}" alt="">
