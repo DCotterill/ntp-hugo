@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <!--<script defer src="https://use.fontawesome.com/releases/v5.0.7/css/all.css"></script>-->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.7/css/all.css"></script>
     <title>{{.Site.Params.title}}</title>
 
     <link rel="stylesheet" href="style.css">
@@ -37,8 +37,22 @@
             </div>
             <div class="topnav" id="myTopnav">
                 {{ range .Site.Menus.main }}
+                <div class="topnav-item">
                     <a class="menu" href="{{ .URL }}">{{ .Name }}</a></li>
+                </div>
                 {{ end }}
+                <div class="topnav-item">
+                  <a href="https://www.instagram.com/cotterilldiane/"
+                     class="sm-icon" target="_blank">
+                    <i class="fa fa-instagram"></i>
+                  </a>
+                  <a href="http://twitter.com/happygrnsprout" class="sm-icon" target="_blank">
+                    <i class="fa fa-twitter"></i>
+                  </a>
+                  <a href="mailto:happygreensprout@gmail.com" class="sm-icon" target="_blank">
+                    <i class="fa fa-envelope"></i>
+                  </a>
+                </div>
                   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
                     <i class="fa fa-bars"></i>
                   </a>
@@ -136,6 +150,17 @@
 
         <footer>
             <p>Happy Green Sprout &copy; 2019</p>
+              <a href="https://www.instagram.com/cotterilldiane/"
+                 class="sm-icon" target="_blank">
+                <i class="fa fa-instagram"></i>
+              </a>
+              <a href="http://twitter.com/happygrnsprout" class="sm-icon" target="_blank">
+                <i class="fa fa-twitter"></i>
+              </a>
+              <a href="mailto:happygreensprout@gmail.com" class="sm-icon" target="_blank">
+                <i class="fa fa-envelope"></i>
+              </a>
+
         </footer>
     </div> <!-- wrapper ends -->
 

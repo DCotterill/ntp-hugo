@@ -83,6 +83,7 @@ img {
 }
 
 .header img {
+    padding:5px 50px 0px 10px;
     width:230px;
 }
 
@@ -113,7 +114,7 @@ img {
   /*background-color: #333;*/
 }
 
-.topnav a {
+.topnav-item {
     font-family: Raleway, sans-serif;
     list-style: none;
     float:left;
@@ -124,6 +125,10 @@ img {
     color: var(--dark);
     text-transform: uppercase;
     font-size: 1.1rem;
+}
+
+.sm-icon {
+    padding:5px 10px;
 }
 
 .topnav a:hover {
@@ -159,7 +164,7 @@ img {
     min-height: 300px;
     /*max-width: 100%*/
     background: url(img/climbing-leaves-1600.jpeg);
-    padding-top: 4rem;
+    padding-top: 3rem;
     padding-left: 3rem;
     padding-right: 3rem;
     display: flex;
@@ -368,11 +373,11 @@ img {
 }
 
 footer {
-    margin-top: 2rem;
+    margin-top: 0rem;
     background: var(--spanish-gray);
     color: var(--dark-jungle-green);
     text-align:center;
-    padding: 1rem;
+    padding: 0rem 1rem 1rem 1rem;
 }
 
 @media screen and (max-width: 700px) {
