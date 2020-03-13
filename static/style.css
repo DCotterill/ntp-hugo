@@ -402,6 +402,8 @@ footer {
 @media(max-width: 700px) {
 
     .showcase {
+        min-height: 150px;
+        padding-top:0rem;
         background: url(img/climbing-leaves-700.jpeg);
     }
 
@@ -423,6 +425,10 @@ footer {
 
     .blog-boxes {
         margin: 20px 10px;
+    }
+
+    .blog-box-background {
+        background: url(img/climbing-leaves-700.jpeg);
     }
 
     .blog {
