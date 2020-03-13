@@ -103,7 +103,7 @@
         <div class="blog-box-background">
             <section class="blog-boxes">
                 {{.Content}}
-                {{ range first 6 .Pages }}
+                {{ range where .Pages "Section" "blog"}}
                 <div class="box">
                     <a href="{{.URL}}">
                         <img src="{{.Params.image}}" alt="" class="blog-image">
