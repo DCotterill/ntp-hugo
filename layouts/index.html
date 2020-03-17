@@ -1,63 +1,13 @@
 <!DOCTYPE html>
-
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <script defer src="https://use.fontawesome.com/releases/v5.0.7/css/all.css"></script>
-    <title>{{.Site.Params.title}}</title>
 
-    <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap"
-          rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+{{partial "head.html" .}}
 
-    <script>
-        function myFunction() {
-  var x = document.getElementById("myTopnav");
-  if (x.className === "topnav") {
-    x.className += " responsive";
-  } else {
-    x.className = "topnav";
-  }
-}
-    </script>
-</head>
 <body>
 
     <div class="wrapper">
-        <div class="header sticky" id="header">
-            <div class="company">
-                <!--<img src="/img/happy-green-sprout-4.png"/>-->
-                <!--<img src="/img/happygreensprout-script.png" />-->
-                <img src="/img/hgs-script-4.png" />
-            </div>
-            <div class="topnav" id="myTopnav">
-                {{ range .Site.Menus.main }}
-                <!--<div class="topnav-item">-->
-                    <a class="menu" href="{{ .URL }}">{{ .Name }}</a></li>
-                <!--</div>-->
-                {{ end }}
-                <!--<div class="topnav-item">-->
-                  <a href="https://www.instagram.com/cotterilldiane/"
-                     class="sm-icon" target="_blank">
-                    <i class="fa fa-instagram"></i>
-                  </a>
-                  <a href="http://twitter.com/happygrnsprout" class="sm-icon" target="_blank">
-                    <i class="fa fa-twitter"></i>
-                  </a>
-                  <a href="mailto:happygreensprout@gmail.com" class="sm-icon" target="_blank">
-                    <i class="fa fa-envelope"></i>
-                  </a>
-                <!--</div>-->
-                  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-                    <i class="fa fa-bars"></i>
-                  </a>
-            </div>
-        </div>
+
+        {{ partial "header.html" .}}
 
         <section class="top-container">
             <header class="showcase">
@@ -148,20 +98,9 @@
             </div>
         </section>
 
-        <footer>
-            <p>Happy Green Sprout &copy; 2019</p>
-              <a href="https://www.instagram.com/cotterilldiane/"
-                 class="sm-icon" target="_blank">
-                <i class="fa fa-instagram"></i>
-              </a>
-              <a href="http://twitter.com/happygrnsprout" class="sm-icon" target="_blank">
-                <i class="fa fa-twitter"></i>
-              </a>
-              <a href="mailto:happygreensprout@gmail.com" class="sm-icon" target="_blank">
-                <i class="fa fa-envelope"></i>
-              </a>
 
-        </footer>
+    {{partial "footer.html" .}}
+
     </div> <!-- wrapper ends -->
 
 </body>

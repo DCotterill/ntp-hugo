@@ -1,34 +1,14 @@
 <!DOCTYPE html>
 
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <!--<script defer src="https://use.fontawesome.com/releases/v5.0.7/css/all.css"></script>-->
-    <title>{{.Site.Params.title}}</title>
 
-    <link rel="stylesheet" href="/style.css">
-    <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap"
-          rel="stylesheet">
-</head>
+{{ partial "head.html" .}}
+
 <body>
     <div class="wrapper">
-        <div class="header sticky" id="header">
-            <div class="company">
-                <img src="/img/hgs-script-4.png" />
-            </div>
-            <div class="topnav" id="myTopnav">
-                {{ range .Site.Menus.main }}
-                    <a class="menu" href="{{ .URL }}">{{ .Name }}</a></li>
-                {{ end }}
-                  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-                    <i class="fa fa-bars"></i>
-                  </a>
-            </div>
-        </div>
+
+        {{ partial "header.html" .}}
+
         <section class="top-single-container">
             <header class="single-showcase">
               <h1>{{.Title}}</h1>
@@ -43,9 +23,9 @@
         <div class="blog-comments">
             {{ template "_internal/disqus.html" . }}
         </div>
-        <footer>
-            <p>Happy Green Sprout &copy; 2019</p>
-        </footer>
+
+        {{partial "footer.html" .}}
+
     </div> <!-- wrapper ends -->
 
 </body>
