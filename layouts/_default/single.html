@@ -11,20 +11,27 @@
 
         <section class="top-single-container">
             <header class="single-showcase">
-              <h1>{{.Title}}</h1>
+                <h1></h1>
             </header>
         </section>
-        </div>
         <div class="blog-post">
-              <img src="{{ .Params.image}}" width="500"/>
-              <h2>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</h2>
-              <div>{{.Content}}</div>
+                <img class="blog-post-image" src="{{ .Params.image}}"/>
+
+                <h2>{{.Title}}</h2>
+
+    {{ if not (.Params.static_page) }}
+                <p>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</p>
+    {{ end }}
+                <div class="blog-content">{{.Content}}</div>
         </div>
+    {{ if not (.Params.static_page) }}
         <div class="blog-comments">
             {{ template "_internal/disqus.html" . }}
         </div>
 
-        {{partial "footer.html" .}}
+    {{ end }}
+
+    {{partial "footer.html" .}}
 
     </div> <!-- wrapper ends -->
 

@@ -3,6 +3,10 @@
                 <img src="/img/hgs-script-4.png" />
             </div>
             <div class="topnav" id="myTopnav">
+                  <a href="javascript:void(0);" class="icon menu"
+                     onclick="myFunction()">
+                    <i class="fa fa-bars"></i>
+                  </a>
                 {{ range .Site.Menus.main }}
                     <a class="menu" href="{{ .URL }}">{{ .Name }}</a></li>
                 {{ end }}
@@ -15,9 +19,6 @@
                   </a>
                   <a href="mailto:happygreensprout@gmail.com" class="sm-icon" target="_blank">
                     <i class="fa fa-envelope"></i>
-                  </a>
-                  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-                    <i class="fa fa-bars"></i>
                   </a>
             </div>
         </div>

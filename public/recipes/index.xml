@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipes on </title>
+    <link>https://laughing-liskov-db83d0.netlify.com/recipes/</link>
+    <description>Recent content in Recipes on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Dec 2019 12:34:20 +1000</lastBuildDate>
+    
+	<atom:link href="https://laughing-liskov-db83d0.netlify.com/recipes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chicken, Bacon and Roast Vegetable Soup</title>
+      <link>https://laughing-liskov-db83d0.netlify.com/recipes/chicken-bacon-and-roasted-veg-soup/</link>
+      <pubDate>Thu, 05 Dec 2019 12:34:20 +1000</pubDate>
+      
+      <guid>https://laughing-liskov-db83d0.netlify.com/recipes/chicken-bacon-and-roasted-veg-soup/</guid>
+      <description>I came up with this recipe whilst trying to dream up a way of increasing the amount of prebiotic foods in my diet, which is important when you are avoiding gluten as people tend to reduce the amount of fibre in their diet when they are going gluten-free.</description>
+    </item>
+    
+    <item>
+      <title>Lemon Cheesecake Bliss Balls</title>
+      <link>https://laughing-liskov-db83d0.netlify.com/recipes/lemon-cheesecake-bliss-balls/</link>
+      <pubDate>Thu, 05 Sep 2019 12:34:20 +1000</pubDate>
+      
+      <guid>https://laughing-liskov-db83d0.netlify.com/recipes/lemon-cheesecake-bliss-balls/</guid>
+      <description>Ever since I realised that I am sensitive to dairy products – and cream in particular – I’ve been trying to dream up alternatives to cheesecake as I love cheesecake and it has been my go-to dessert for Christmas for quite a few years now.</description>
+    </item>
+    
+  </channel>
+</rss>

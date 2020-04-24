@@ -11,59 +11,76 @@
 
         <section class="top-container">
             <header class="showcase">
-                <h1>{{.Site.Params.maintagline}}</h1>
+                <h1>Happy and healthy with whole foods</h1>
+                <section class="intro-content">
+                    <div class="intro-image">
+                        <img class="rounded-circle" width="250px"
+                             src="/img/Di-600.jpeg"/>
+                    </div>
+                    <div class="intro-text">
+                        <h2>Do you want to optimise your health and wellbeing?</h2>
+                        <p>I am here to help people feel better every day.</p>
+                        <p>I work with individuals to look at all elements of
+                            their life they can change to improve their
+                            health and feel good.</p>
+                        <p>I work with employers to create programs to help
+                            their people live well and feel better every day.</p>
+                    </div>
+                </section>
             </header>
         </section>
 
-        <section class="main-content">
-            <div class="index-about">
-                <div class="index-image">
-                    <img class="rounded-circle" width="300px"
-                         src="/img/Di-600.jpeg"/>
-                </div>
-                <div class="index-content">
-                    <h2>Diane Cotterill</h2>
-                    <p>My focus is on helping people to feel better through simple healthy choices that fit in with their lifestyle. 
-						Through this website I want to help share tips, tricks, 
-						recipes and help people to understand what the latest scientific findings and 
-						how they can apply the latest findings to improve their own health.</p>
-                </div>
+        <section class="indiv-content">
+            <div class="indiv-text">
+                <h2>Advice for Individuals</h2>
+
+                <p>Are you struggling with your health? Are you ready to make the changes so you can feel better every day?</p>
+
+                <p>Nutritional Therapy can assist with a variety of chronic illnesses and can help you if you are looking to
+                    focus on optimising your health you can get back to feeling good and:</p>
+
+                    <ul>
+                        <li>Sleep better</li>
+                        <li>Have more energy</li>
+                        <li>Reduce your symptoms</li>
+                        <li>Improve overall health, well being and mindset.</li>
+                    </ul>
+
+                <p>I work with people one-on-one to look at what elements of their life they can change to help them improve
+                    their health and feel good. Because I believe if we can change small things in our lives and focus on
+                    the right things, we can live more and fully enjoy our
+                    life.</p>
+                <h3>Want to know more? Schedule a free 20 minute call to find
+                      out more about how I can help you.</h3>
 
             </div>
-            <div class="index-services">
-                <div class="index-image">
-                    <img class="rounded-circle" width="300px" src="/img/ThinkstockPhotos-veg.jpg"/>
-                </div>
-                <div class="index-content">
-                    <h2>Happy Green Sprout</h2>
-                    <p>We provide one-on-one consultations with our clients as well as creating packages for corporate organisations.</p>
-                </div>
-            </div>
-            <div class="index-contact">
-                <div class="index-image">
-                      <a href="https://www.instagram.com/cotterilldiane/">
-                          <div class="icons-image">
-                            <img width="50px" src="/img/instagram.svg"/><p class="text-black">@cotterilldiane</p>
-                          </div>
-                      </a>
-                      <a href="http://twitter.com/happygrnsprout">
-                          <div class="icons-image">
-                              <img width="50px" src="/img/twitter.svg"/><p>@HappyGrnSprout</p>
-                          </div>
-                      </a>
-                      <a href="mailto:happygreensprout@gmail.com">
-                          <div class="icons-image">
-                              <img width="50px" src="/img/envelope.svg"/><p>HappyGreenSprout@gmail.com</p>
-                          </div>
-                      </a>
-                </div>
-                <div class="index-content">
-                    <h2>Contact</h2>
-                    <p>I'd love to speak to you, or be in touch!</p>
-                </div>
+            <div class="indiv-image">
+                <img width="500px" src="/img/Food-crate.png"/>
             </div>
         </section>
 
+        <section class="comp-content">
+            <div class="comp-image">
+                <img width="500px" src="/img/salmon-plate.png"/>
+            </div>
+            <div class="comp-text">
+                <h2>Advice for Employers - Employee Wellness programs</h2>
+                <p>Do you want to help your employees live well and feel better
+                    everyday?</p>
+
+                <p>Each employee is different with a unique set of needs -
+                    work with me to help employees feel better and well nourished.</p>
+                <p>Consider programs to:</p>
+
+                <ul>
+                    <li>Reduce Stress</li>
+                    <li>Promote nutrient dense, healthy and tasty food options
+                        in the office</li>
+                    <li>Promote a variety of practices to improve mental health
+                        and well being.</li>
+
+            </div>
+        </section>
         <div class="blog-box-background">
             <section class="blog-boxes">
                 {{.Content}}
@@ -79,24 +96,24 @@
             </section>
         </div>
 
-        <section class="instafeed">
-            <div class="instagram-pics">
-                {{ $dataJ := getJSON (printf "https://api.instagram.com/v1/users/self/media/recent/?access_token=%s" .Site.Params.inst_access) }}
-                {{ range first 10 $dataJ.data }}
-                    <a href="{{ .link }}" target="_new">
+        <!--<section class="instafeed">-->
+            <!--<div class="instagram-pics">-->
+                <!--{{ $dataJ := getJSON (printf "https://api.instagram.com/v1/users/self/media/recent/?access_token=%s" .Site.Params.inst_access) }}-->
+                <!--{{ range first 10 $dataJ.data }}-->
+                    <!--<a href="{{ .link }}" target="_new">-->
 
-                        <div class="instagram-pic"
-                         style="background: url({{ .images.standard_resolution.url }}) no-repeat center top;background-size:cover;">
-                        <!--<p>-->
-                            <!--{{ with .caption }}{{ .text }}<br>-->
-                            <!--<br>{{ end }}-->
-                            <!--<span class="play-date" data-date="{{ .created_time }}"></span>-->
-                        <!--</p>-->
-                        </div>
-                    </a>
-                {{ end }}
-            </div>
-        </section>
+                        <!--<div class="instagram-pic"-->
+                         <!--style="background: url({{ .images.standard_resolution.url }}) no-repeat center top;background-size:cover;">-->
+                        <!--&lt;!&ndash;<p>&ndash;&gt;-->
+                            <!--&lt;!&ndash;{{ with .caption }}{{ .text }}<br>&ndash;&gt;-->
+                            <!--&lt;!&ndash;<br>{{ end }}&ndash;&gt;-->
+                            <!--&lt;!&ndash;<span class="play-date" data-date="{{ .created_time }}"></span>&ndash;&gt;-->
+                        <!--&lt;!&ndash;</p>&ndash;&gt;-->
+                        <!--</div>-->
+                    <!--</a>-->
+                <!--{{ end }}-->
+            <!--</div>-->
+        <!--</section>-->
 
 
     {{partial "footer.html" .}}

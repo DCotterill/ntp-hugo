@@ -16,14 +16,16 @@
 
         <section class="blog">
           {{ range .Paginator.Pages }}
-          <section class="blog-item blog-image">
+          <section class="blog-item">
               <img src="{{.Params.image}}" alt="">
           </section>
-          <section class="blog-item blog-details">
+          <section class="blog-item">
+                <div class="blog-date">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</div>
                <div class="blog-title">
-                    <a href="{{.URL}}">{{.Title}}</a>
+                    <h1>
+                        <a href="{{.URL}}">{{.Title}}</a>
+                    </h1>
                </div>
-               <div class="blog-date">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</div>
                <div class="blog-tags">{{ if .Params.tags }}<strong>Tags:</strong> {{range .Params.tags}}<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
                <div class="blog-categories">{{ if .Params.categories }}<strong>Categories:</strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
                <div class="blog-moods">{{ if .Params.moods }}<strong>Moods:</strong> {{range .Params.moods}}<a href="{{ "/moods/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>

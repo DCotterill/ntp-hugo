@@ -1,32 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title></title>
     <link>https://laughing-liskov-db83d0.netlify.com/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Aug 2019 12:34:20 +1000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2019 12:34:20 +1000</lastBuildDate>
     
 	<atom:link href="https://laughing-liskov-db83d0.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Aaa</title>
-      <link>https://laughing-liskov-db83d0.netlify.com/blog/aaa/</link>
-      <pubDate>Mon, 19 Aug 2019 12:34:20 +1000</pubDate>
+      <title>Chicken, Bacon and Roast Vegetable Soup</title>
+      <link>https://laughing-liskov-db83d0.netlify.com/recipes/chicken-bacon-and-roasted-veg-soup/</link>
+      <pubDate>Thu, 05 Dec 2019 12:34:20 +1000</pubDate>
       
-      <guid>https://laughing-liskov-db83d0.netlify.com/blog/aaa/</guid>
-      <description>I just returned from Washington, DC to attend the Academy of Nutrition and Dietetics’ Food &amp;amp; Nutrition Conference &amp;amp; Expo (FNCE). It was a particularly good conference, full of excellent presentations on some of today’s hottest nutrition topics, including debates on intermittent fasting vs.</description>
+      <guid>https://laughing-liskov-db83d0.netlify.com/recipes/chicken-bacon-and-roasted-veg-soup/</guid>
+      <description>I came up with this recipe whilst trying to dream up a way of increasing the amount of prebiotic foods in my diet, which is important when you are avoiding gluten as people tend to reduce the amount of fibre in their diet when they are going gluten-free.</description>
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>https://laughing-liskov-db83d0.netlify.com/post/my-first-post/</link>
-      <pubDate>Thu, 15 Aug 2019 13:59:42 +1000</pubDate>
+      <title>How stress and chronically elevated cortisol disrupts the balance of hormones in your body</title>
+      <link>https://laughing-liskov-db83d0.netlify.com/blog/why-stress-throws-your-hormones-out/</link>
+      <pubDate>Wed, 30 Oct 2019 12:34:20 +1000</pubDate>
       
-      <guid>https://laughing-liskov-db83d0.netlify.com/post/my-first-post/</guid>
+      <guid>https://laughing-liskov-db83d0.netlify.com/blog/why-stress-throws-your-hormones-out/</guid>
+      <description>So to start with, what is cortisol?
+Cortisol is known as the fight or flight hormone, and is released by the adrenal glands in times of high stress and/or emergency. In Hunter-Gatherer times, the ‘fight or flight’ response was activated when fleeing from a dangerous situation, such as being chased by a wild animal.</description>
+    </item>
+    
+    <item>
+      <title>Drinking pure, distilled water - It has to be good for us, right?</title>
+      <link>https://laughing-liskov-db83d0.netlify.com/blog/mineral-water/</link>
+      <pubDate>Thu, 05 Sep 2019 12:34:20 +1000</pubDate>
+      
+      <guid>https://laughing-liskov-db83d0.netlify.com/blog/mineral-water/</guid>
+      <description>Whilst the human body is very resilient, optimal hydration can make a real and significant difference to the body and its ability to perform. Not only does hydration have a significant impact on our ability to rid the body of toxins and excess salt, it can also affect our cognitive abilities and also our mood.</description>
+    </item>
+    
+    <item>
+      <title>I&#39;d love to help you out.</title>
+      <link>https://laughing-liskov-db83d0.netlify.com/services/</link>
+      <pubDate>Thu, 05 Sep 2019 12:34:20 +1000</pubDate>
+      
+      <guid>https://laughing-liskov-db83d0.netlify.com/services/</guid>
+      <description>We provide one-on-one consultations with our clients as well as creating packages for corporate organisations.</description>
+    </item>
+    
+    <item>
+      <title>Lemon Cheesecake Bliss Balls</title>
+      <link>https://laughing-liskov-db83d0.netlify.com/recipes/lemon-cheesecake-bliss-balls/</link>
+      <pubDate>Thu, 05 Sep 2019 12:34:20 +1000</pubDate>
+      
+      <guid>https://laughing-liskov-db83d0.netlify.com/recipes/lemon-cheesecake-bliss-balls/</guid>
+      <description>Ever since I realised that I am sensitive to dairy products – and cream in particular – I’ve been trying to dream up alternatives to cheesecake as I love cheesecake and it has been my go-to dessert for Christmas for quite a few years now.</description>
+    </item>
+    
+    <item>
+      <title>Ways to contact me</title>
+      <link>https://laughing-liskov-db83d0.netlify.com/contact/</link>
+      <pubDate>Thu, 05 Sep 2019 12:34:20 +1000</pubDate>
+      
+      <guid>https://laughing-liskov-db83d0.netlify.com/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>My why</title>
+      <link>https://laughing-liskov-db83d0.netlify.com/blog/my-why/</link>
+      <pubDate>Mon, 19 Aug 2019 12:34:20 +1000</pubDate>
+      
+      <guid>https://laughing-liskov-db83d0.netlify.com/blog/my-why/</guid>
+      <description>Hi, I’m Diane Cotterill and I live in Sydney on the Northern Beaches with my husband and two kids. I’m passionate about improving health through nutrition, eating whole foods and a variety of herbs and spices to maximize health and longevity, whilst having fun and enjoying life along the way.</description>
+    </item>
+    
+    <item>
+      <title>Why a low-fat or poor fat diet can be dentrimental to our health</title>
+      <link>https://laughing-liskov-db83d0.netlify.com/blog/new-fats/</link>
+      <pubDate>Fri, 21 Jun 2019 12:34:20 +1000</pubDate>
+      
+      <guid>https://laughing-liskov-db83d0.netlify.com/blog/new-fats/</guid>
+      <description>The majority of people today eat a diet low in fat or high in rancid or hydrogenated fats. On a cellular level, why is a low-fat or “poor fat” diet detrimental to health?
+At a cellular level, lipids are the building blocks for both cellular membranes and hormones.</description>
     </item>
     
   </channel>
