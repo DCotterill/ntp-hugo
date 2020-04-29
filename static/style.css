@@ -55,7 +55,7 @@ p,li {
 
 a {
     text-decoration: none;
-    color: var(--dark);
+    color: var(--romansilver);
     font-weight: bold;
 }
 
@@ -137,7 +137,7 @@ img {
 }
 
 .topnav a:hover {
-  color: black;
+  color: var(--silverpink);
 }
 
 .topnav .icon {
@@ -436,6 +436,10 @@ footer {
     color: var(--dark-jungle-green);
     text-align:center;
     padding: 0rem 1rem 1rem 1rem;
+}
+
+footer > a {
+    color: var(--dark-jungle-green);
 }
 
 @media screen and (max-width: 700px) {
