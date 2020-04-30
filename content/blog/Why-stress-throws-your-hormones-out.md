@@ -20,13 +20,11 @@ Typically if we are not in a state of stress, the body will utilise cholesterol 
 
 When our body is under high stress, the body feels that it needs to create more cortisol and it does so through an action known as ‘Pregnenolone steal’. The body uses its innate intelligence to determine that it can’t rest & repair as it is under a stressful ‘attack’. In this way it will funnel all of the pregnenolone and progesterone into producing cortisol, resulting in a lack of sex hormones. The imbalance of having high in cortisol and not producing enough sex hormones, means that we may experience several unpleasant signs and symptoms including:
 
-•	Low libido
-
-•	Exacerbating menopausal and PMS symptoms
-
-•	Impacting these hormones can affect our mood and cause depression and/or anxiety
-
-•	Amenorrhea (missing period)
+* Low libido
+* Exacerbating menopausal and PMS symptoms
+* Impacting these hormones can affect our mood and cause depression and/or 
+anxiety
+* Amenorrhea (missing period)
 
 
 __Liver and pancreas affected__
@@ -38,25 +36,24 @@ __Adrenal fatigue__
 
 Chronically elevated levels of cortisol can also result in adrenal exhaustion over time. Essentially, after an extended period of ongoing stress and high cortisol release from the adrenal glands, the body stops producing enough cortisol. The symptoms of adrenal exhaustion/fatigue vary from person to person and include:
 
-•	Depression
-
-•	Obesity
-
-•	Low Progesterone and other sex hormones
+* Depression
+* Obesity
+* Low Progesterone and other sex hormones
 
 So how can we reduce our cortisol levels and in effect all the dysfunction that comes with it? Essentially we need to reduce stress and let our body heal as much as possible. You can help yourself in the following ways:
 
-•	Try to reduce the daily work stress. Is there a way of reducing your work stress? Make a daily plan, not take on too much, not over-commit.
-
-•	Take time out for you, whether it’s a walk at lunch, eating mindfully, reading a book or creating some art. It’s important to take out time for yourself and relax, with no pressure. Maybe Netflix is your way of relaxing.
-
-•	Get plenty of sleep. Not sleeping creates a stress on the body, as you’re unable to recharge and recuperate. Sleeping is when healing occurs so it’s super important. Being well rested will also ensure that you’re not grabbing a coffee and continually spiking your cortisol.
-
-•	Food and drinks, they can be stressors too. From alcohol to caffeine and processed and refined foods. By eating whole foods, that heal the body, not stress the body, you’ll be helping your adrenals. 
-
-•	Relationships – nurture the relationships that give you joy. Let go of those relationships that bring you down.
-
-•	Lifestyle – overall it’s important to review your current lifestyle and think about the ways that you can reduce overall stress and stressors to help you deal with the day to day in a way that your body will thank you for.
+* Try to reduce the daily work stress. Is there a way of reducing your work 
+stress? Make a daily plan, not take on too much, not over-commit.
+* Take time out for you, whether it’s a walk at lunch, eating mindfully, 
+reading a book or creating some art. It’s important to take out time for yourself and relax, with no pressure. Maybe Netflix is your way of relaxing.
+* Get plenty of sleep. Not sleeping creates a stress on the body, as you’re 
+unable to recharge and recuperate. Sleeping is when healing occurs so it’s super important. Being well rested will also ensure that you’re not grabbing a coffee and continually spiking your cortisol.
+* Food and drinks, they can be stressors too. From alcohol to caffeine and 
+processed and refined foods. By eating whole foods, that heal the body, not stress the body, you’ll be helping your adrenals. 
+* Relationships – nurture the relationships that give you joy. Let go of those
+ relationships that bring you down.
+* Lifestyle – overall it’s important to review your current lifestyle and 
+think about the ways that you can reduce overall stress and stressors to help you deal with the day to day in a way that your body will thank you for.
 
 NEEDS CHANGING BELOW FOR PHOTO REFERENCE:
 
