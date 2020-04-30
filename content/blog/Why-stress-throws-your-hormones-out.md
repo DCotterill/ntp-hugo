@@ -55,11 +55,5 @@ processed and refined foods. By eating whole foods, that heal the body, not stre
 * Lifestyle – overall it’s important to review your current lifestyle and 
 think about the ways that you can reduce overall stress and stressors to help you deal with the day to day in a way that your body will thank you for.
 
-NEEDS CHANGING BELOW FOR PHOTO REFERENCE:
 
-Image by <a href="https://pixabay.com/users/idornbrach-6304012/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2701473">Isabella Dornbrach</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2701473">Pixabay</a>
-
-Image: https://pixabay.com/photos/fat-good-fats-healthy-fats-2701473/
-
-
-[test](http://www.google.com) 
+[Image by Ajay Goel](https://www.flickr.com/photos/ajaygoel2011/27180406744)
