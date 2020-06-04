@@ -32,9 +32,6 @@ html,body
 html {
     box-sizing: border-box;
     font-family: Raleway;
-    /*font-family: Oswald, sans-serif;*/
-    /*font-family: futura-pt, sans-serif;*/
-    /*font-weight: normal;*/
     color: var(--dark-jungle-green);
 }
 
@@ -44,7 +41,8 @@ body {
     line-height: 1.4;
 }
 
-p,li {
+p,li, input[type="text"]
+{
     color: rgb(0,0,0,0.73);
     font-family: Montserrat;
     font-weight: light;
@@ -82,8 +80,13 @@ img {
 .wrapper {
     display: grid;
     grid-gap: 0px;
-    /*width:100%;*/
-    /*max-width:100%;*/
+
+    /* Allow momentum based scrolling */
+    /*position: fixed;*/
+    /*height: 100%;*/
+    /*width: 100%;*/
+    /*overflow: scroll;*/
+    /*-webkit-overflow-scrolling: touch;*/
 }
 
 .header img {
@@ -356,6 +359,132 @@ img {
     grid-gap:20px;
     margin: 40px;
     grid-template-columns: 1fr 3fr;
+}
+
+.service-box-background {
+    background: url(img/climbing-leaves-1600.jpeg);
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+      background-size: cover;
+    }
+
+.service-boxes {
+    margin: 50px; 10px;
+    display:grid;
+    grid-gap: 40px;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr))
+}
+
+.service-box {
+    background: var(--platinum);
+    text-align: left;
+    padding: 1.0rem 1.5rem;
+    box-shadow: var(--shadow);
+    border-radius: 5px;
+
+}
+
+.service-summary {
+    height: 140px;
+}
+
+.service-pricing, .service-summary, .service-title {
+    text-align:center;
+    font-weight: bold;
+}
+
+.service-box ul {
+  list-style-type: none;
+    padding-left:0px;
+    padding-top:20px;
+}
+
+.service-box li {
+    display: list-item;
+}
+
+.service-box ul li {
+    background: url("img/tick.svg") no-repeat left top 5px;
+    background-size: 18px 14px;
+    padding: 0 5px 0 35px;
+    margin-bottom:16px;
+}
+
+.sub-ul ul li {
+    list-style: square;
+    background:none;
+    padding:0px;
+    margin-left:40px;
+}
+
+.enquiry-content {
+    margin:2rem 1rem 3rem;
+    /*box-shadow: 0 0 8px -3px;*/
+    /*background: var(--platinum);*/
+    /*display: grid;*/
+    grid-gap:50px;
+    /*justify-items: center;*/
+    /*align-items: center;*/
+    /*grid-template-columns: 1fr 1fr;*/
+    padding: 1rem 4rem;
+    /*border-style: solid;*/
+    /*border-color: var(--spanish-gray);*/
+    /*border-radius: 5px;*/
+}
+
+.enquiry-content form {
+    display:grid;
+    grid-template-columns: 4fr;
+}
+
+.enquiry-content form label {
+    display:block;
+}
+
+.enquiry-content form p {
+    margin:0;
+}
+
+.radiocontainer {
+  display: inline-grid;
+  /* tells the auto-placement algorithm to attempt to fill in holes earlier in the grid if smaller items come up later */
+  grid-auto-flow: dense;
+  align-items: center;
+}
+
+.radiocontainer label {
+    padding-left:1rem;
+  grid-column: 2;
+}
+
+.enquiry-content form input {
+    height:2rem;
+    min-width: 20rem;
+    font-family: Raleway, sans-serif;
+    grid-column: auto;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+}
+
+textarea {
+    /*height:2rem;*/
+    /*min-width: 20rem;*/
+    font-family: Raleway, sans-serif;
+    font-size:15px;
+    grid-column: auto;
+
+      width: 70%;
+  height: 150px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  /*background-color: #f8f8f8;*/
+  resize: none;
+
 }
 
 .side-content {

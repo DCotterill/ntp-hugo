@@ -6,12 +6,18 @@ Image: /img/Di-600.jpeg
 static_page: true
 ---
 
+To organise an appointment or if you have a general enquiry please email me:
+ 	
+ [happygreensprout@gmail.com](mailto:happygreensprout@gmail.com)
 
-If you’d like to get in touch, you can 
+To follow me on my socials you can catch me in the following spots:
 
-email me on: 	[happygreensprout@gmail.com](mailto:happygreensprout@gmail.com)
+Twitter:		[@dmcotter](http://www.twitter.com/dmcotter)
 
-Tweet me:		@dmcotter
+Instagram: 		[@cotterilldiane](http://www.instagram.com/cotterilldiane)
+
+Facebook Page: 	https://www.facebook.com/HappyGreenSprout
+
 
 
 

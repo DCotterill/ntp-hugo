@@ -1,36 +1,159 @@
 <!DOCTYPE html>
-
 <html lang="en">
 
-{{ partial "head.html" .}}
+{{partial "head.html" .}}
 
 <body>
+
     <div class="wrapper">
 
         {{ partial "header.html" .}}
 
-        <section class="top-single-container">
+        <section class="top-container">
             <header class="single-showcase">
-                <h1>Our Services</h1>
+                <h1>My Services</h1>
             </header>
         </section>
-        <div class="blog-post">
-                <img class="blog-post-image" src="{{ .Params.image}}"/>
 
-                <h2>{{.Title}}</h2>
+        <section class="indiv-content">
+            <div class="indiv-text">
+                <h2>Advice for Individuals</h2>
 
-    {{ if not (.Params.static_page) }}
-                <p>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</p>
-    {{ end }}
-                <div class="blog-content">{{.Content}}</div>
+                <p>Are you struggling with your health? Are you ready to make the changes so you can feel better every day?</p>
+
+                <p>Nutritional Therapy can assist with a variety of chronic illnesses and can help you if you are looking to
+                    focus on optimising your health you can get back to feeling good and:</p>
+
+                    <ul>
+                        <li>Sleep better</li>
+                        <li>Have more energy</li>
+                        <li>Reduce your symptoms</li>
+                        <li>Improve overall health, well being and mindset.</li>
+                    </ul>
+
+                <p>I work with people one-on-one to look at what elements of their life they can change to help them improve
+                    their health and feel good. Because I believe if we can change small things in our lives and focus on
+                    the right things, we can live more and fully enjoy our
+                    life.</p>
+                <h3>Want to know more? Contact me to organise a free 20
+                    minute discussion, or enquire about one of the packages
+                below.</h3>
+                <a href="/enquiry" class="btn">Enquire</a>
+
+            </div>
+            <div class="indiv-image">
+                <!--<img width="500px" src="/img/Food-crate.png"/>-->
+            </div>
+        </section>
+
+        <div class="service-box-background">
+            <section class="service-boxes">
+                <div class="service-box">
+                    <!--<a href="{{.URL}}">-->
+                        <!--<img src="{{.Params.image}}" alt="" class="blog-image">-->
+                    <h3 class="service-title">Individual Nutrition
+                            Coaching</h3>
+                    <!--</a>-->
+                    <p class="service-summary">
+                        Do you have a specific condition or chronic illness
+                        that you are looking to improve?<br/>
+                        We’ll work together to find the root cause of your
+                        issues and I’ll help you
+                        put a plan in place to improve your health.
+                    </p>
+
+                    <div class="service-pricing">
+                        <p>$250 package</p>
+
+                        <a href="/enquiry" class="btn">Enquire</a>
+                    </div>
+                    <ul>
+                    <li>20 minute exploratory session</li>
+                    <li>Detailed analysis of your health concerns,
+                              medical/family history, current medications,
+                        detailed symptom assessment, and food journal</li>
+                    <li>1 hr 30 minute one-on-one session to review and discuss
+                    the analysis done so far and your health goals and
+                        objectives</li>
+                    <li>You will receive a detailed report incorporating your
+                         recommended dietary and lifestyle protocol that
+                        addresses your concerns and moves you towards your
+                        health goals</li>
+                    </ul>
+                </div>
+
+                <div class="service-box">
+                    <!--<a href="{{.URL}}">-->
+                        <!--<img src="{{.Params.image}}" alt="" class="blog-image">-->
+                        <h3 class="service-title">Comprehensive Coaching
+                            Program</h3>
+                    <!--</a>-->
+                    <p class="service-summary">
+
+                    Looking for more ongoing coaching and collaboration to make new changes to your diet and lifestyle?
+                        <br/>Join our group program and we’ll help you approach a different topic every week.
+                    <div class="service-pricing">
+
+                        <p>$500 for 10 week program</p>
+                        <a href="/enquiry" class="btn">Enquire</a>
+                    </div>
+                    <ul>
+                    <li>Two personal one-on-one video consultations</li>
+
+                    <li>Weekly recorded webinar which includes a new topic each week as well as Q&A on the topic of
+                        the week as well as roader questions. (1 per week
+                        for 10 weeks)</li>
+
+                    <li class="sub-ul">Topics include:</li>
+                        <div class="sub-ul">
+                        <ul>
+                        <li class="sub-ul">Organising your pantry - staples,
+                            snacks and
+                            switching things out</li>
+                        <li>Quick cooking tips - how to make each meal healthier
+                            with quick hacks</li>
+                        <li>Eating on the go - handbag must haves, and ideas for
+                            eating out</li>
+                        <li>Meal planning and tips for shopping</li>
+                        <li>Don’t sweat the small stuff - stress, sleep and
+                            emotional baggage</li>
+                        </ul>
+                        </div>
+                    </ul>
+
+                </div>
+
+                <div class="service-box">
+                    <!--<a href="{{.URL}}">-->
+                        <!--<img src="{{.Params.image}}" alt="" class="blog-image">-->
+                        <h3 class="service-title">Fully Comprehensive
+                            Premium Package
+                        </h3>
+                    <!--</a>-->
+                    <p class="service-summary">
+                        This tailored one on one package will help you to transform your life and really make the most of each and every day.
+
+                        </p>
+                    <div class="service-pricing">
+
+                        <p>$1500 per month, 3 month
+                                minimum</p>
+                        <a href="/enquiry" class="btn">Enquire</a>
+                    </div>
+
+                    <ul>
+                        <li>Initial detailed analysis and personalised protocol
+                            development</li>
+                        <li>Kitchen cupboard, Pantry and fridge analysis and
+                            makeover</li>
+                        <li>weekly one-on-one meetings to review progress and
+                            tailor the approach</li>
+                        <li>Personal recommendations and one-on-one interactions
+                                  for Q&A via email, text and phone for any
+                            ongoing questions.</li>
+                </div>
+            </section>
         </div>
-    {{ if not (.Params.static_page) }}
-        <div class="blog-comments">
-            {{ template "_internal/disqus.html" . }}
-        </div>
-
-    {{ end }}
-
     {{partial "footer.html" .}}
 
     </div> <!-- wrapper ends -->

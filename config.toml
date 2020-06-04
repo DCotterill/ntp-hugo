@@ -3,6 +3,8 @@ languageCode = "en-us"
 theme = "ga-hugo-theme"
 summarylength = 40
 disqusShortname = "happy-green-sprout"
+googleAnalytics = "UA-168575542-1"
+
 
 
 [params]
