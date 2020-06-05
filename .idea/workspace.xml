@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09d5d942-271b-4136-828d-50473f01635a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/_default/enquiry.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/enquiry.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="468" column="21" lean-forward="true" selection-start-line="468" selection-start-column="21" selection-end-line="468" selection-end-column="21" />
+            <state relative-caret-position="484">
+              <caret line="682" column="18" selection-start-line="682" selection-start-column="18" selection-end-line="682" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -50,8 +48,8 @@
       <file leaf-file-name="services.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layouts/_default/services.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="40" selection-end-column="58" />
+            <state relative-caret-position="738">
+              <caret line="156" lean-forward="true" selection-start-line="48" selection-end-line="156" />
             </state>
           </provider>
         </entry>
@@ -65,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="enquiry.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="enquiry.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layouts/_default/enquiry.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+            <state relative-caret-position="197">
+              <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -109,13 +107,10 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>footer</find>
       <find>blog0</find>
       <find>box</find>
       <find>blog-box</find>
       <find>.box</find>
-      <find>services</find>
-      <find>service-box</find>
       <find>center</find>
       <find>service-ti</find>
       <find>fixed</find>
@@ -139,6 +134,9 @@
       <find>btn</find>
       <find>radio</find>
       <find>input</find>
+      <find>services</find>
+      <find>indiv</find>
+      <find>service-box</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -167,13 +165,13 @@
         <option value="$PROJECT_DIR$/content/services.md" />
         <option value="$PROJECT_DIR$/content/enquiry.md" />
         <option value="$PROJECT_DIR$/content/enquiry-thanks.md" />
-        <option value="$PROJECT_DIR$/layouts/_default/services.html" />
         <option value="$PROJECT_DIR$/layouts/partials/header.html" />
         <option value="$PROJECT_DIR$/layouts/partials/head.html" />
         <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/layouts/index.html" />
-        <option value="$PROJECT_DIR$/static/style.css" />
         <option value="$PROJECT_DIR$/layouts/_default/enquiry.html" />
+        <option value="$PROJECT_DIR$/layouts/_default/services.html" />
+        <option value="$PROJECT_DIR$/static/style.css" />
       </list>
     </option>
   </component>
@@ -655,13 +653,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/_default/services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="40" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/enquiry.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -682,6 +673,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/_default/enquiry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/layouts/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -689,17 +687,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/style.css">
+    <entry file="file://$PROJECT_DIR$/layouts/_default/services.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="468" column="21" lean-forward="true" selection-start-line="468" selection-start-column="21" selection-end-line="468" selection-end-column="21" />
+        <state relative-caret-position="738">
+          <caret line="156" lean-forward="true" selection-start-line="48" selection-end-line="156" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/_default/enquiry.html">
+    <entry file="file://$PROJECT_DIR$/static/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        <state relative-caret-position="484">
+          <caret line="682" column="18" selection-start-line="682" selection-start-column="18" selection-end-line="682" selection-end-column="18" />
         </state>
       </provider>
     </entry>

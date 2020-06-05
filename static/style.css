@@ -421,7 +421,7 @@ img {
 }
 
 .enquiry-content {
-    margin:2rem 1rem 3rem;
+    margin:2rem 2rem 3rem;
     /*box-shadow: 0 0 8px -3px;*/
     /*background: var(--platinum);*/
     /*display: grid;*/
@@ -437,7 +437,7 @@ img {
 
 .enquiry-content form {
     display:grid;
-    grid-template-columns: 4fr;
+    grid-template-columns: 1fr;
 }
 
 .enquiry-content form label {
@@ -445,7 +445,7 @@ img {
 }
 
 .enquiry-content form p {
-    margin:0;
+    margin:0.5rem;
 }
 
 .radiocontainer {
@@ -463,7 +463,9 @@ img {
 
 .enquiry-content form input[type=text] {
     height:2rem;
-    min-width: 20rem;
+    min-width: 10rem;
+    max-width: 20rem;
+    width:100%;
     font-family: Raleway, sans-serif;
     grid-column: auto;
   box-sizing: border-box;
@@ -472,13 +474,14 @@ img {
 }
 
 textarea {
-    height:2rem;
-    min-width: 20rem;
+    /*height:2rem;*/
+    /*min-width: 20rem;*/
     font-family: Raleway, sans-serif;
     font-size:15px;
     grid-column: auto;
 
-      width: 70%;
+      width: 100%;
+    max-width: 60rem;
   height: 150px;
   box-sizing: border-box;
   border: 2px solid #ccc;
@@ -606,6 +609,7 @@ footer > a {
 
     .single-showcase {
         background: url(img/climbing-leaves-700.jpeg);
+        padding:0rem;
     }
 
     .showcase h1 {
@@ -613,6 +617,7 @@ footer > a {
     }
 
     .single-showcase h1 {
+
         font-size:2rem;
     }
 
@@ -668,6 +673,14 @@ footer > a {
         grid-gap:10px;
         margin: 20px;
         grid-template-columns: 1fr;
+    }
+
+    .enquiry-content {
+        margin: 2rem 0rem 3rem;
+    }
+
+    .service-boxes {
+        margin: 15px;
     }
 
     /*.main-nav ul {*/
