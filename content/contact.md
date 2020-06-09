@@ -12,44 +12,17 @@ To organise an appointment or if you have a general enquiry please email me:
 
 To follow me on my socials you can catch me in the following spots:
 
-Twitter:		[@dmcotter](http://www.twitter.com/dmcotter)
+Twitter:		
+ 
+ [@dmcotter](http://www.twitter.com/dmcotter)
 
-Instagram: 		[@cotterilldiane](http://www.instagram.com/cotterilldiane)
+Instagram: 		
+ 
+ [@cotterilldiane](http://www.instagram.com/cotterilldiane)
 
-Facebook Page: 	https://www.facebook.com/HappyGreenSprout
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br/><br/><br/>
-<br/><br/><br/>
-<br/><br/><br/>
-<br/><br/><br/>
-<br/><br/><br/>
-<br/><br/><br/>
-<br/><br/><br/>
-<br/><br/><br/>
-
+Facebook Page: 	
+ 
+ https://www.facebook.com/HappyGreenSprout
 
 
 
