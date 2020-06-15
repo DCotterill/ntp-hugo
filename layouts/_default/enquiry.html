@@ -2,8 +2,19 @@
 <html lang="en">
 
 {{partial "head.html" .}}
+<script>
+    function getUrlParameter(name) {
+        name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+        var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+        var results = regex.exec(location.search);
+        return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+    };
 
-<body>
+
+
+</script>
+<body onload="javascript:document.getElementById('source').value =
+getUrlParameter('source');">
 
     <div class="wrapper">
 
@@ -55,11 +66,14 @@
                   <textarea name="questions"></textarea>
               </p>
 
-              <p>&nbsp;</p>
+              <p>&nbsp;
+                  <input type="hidden" name="source" id="source"/>
+              </p>
               <p>
-
                 <button href="" type="submit" class="btn">Submit</button>
               </p>
+
+
             </form>
 
         </section>

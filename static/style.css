@@ -66,6 +66,11 @@ ul {
     list-style: square;
 }
 
+
+strong {
+    font-size: 1.2rem;
+}
+
 .btn {
     background: var(--moonstone-blue);
     color: var(--isabelline);
@@ -388,6 +393,19 @@ img {
 
 }
 
+.service-employer-box {
+    /*background: url("img/wellness-word.jpg");*/
+    /*background-size: 100%;*/
+    text-align: center;
+    padding: 0.5rem 1.0rem 2.0rem;
+    box-shadow: var(--shadow);
+    border-radius: 5px;
+}
+
+.servicee-box .btn {
+    text-align: center;
+}
+
 .service-summary {
     height: 140px;
 }
@@ -643,7 +661,7 @@ footer > a {
 
     .indiv-content {
         display: grid;
-        grid-gap:10px;
+        grid-gap:30px;
         justify-items: start;
         align-items: center;
         grid-template-columns: 1fr;
