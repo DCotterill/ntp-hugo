@@ -172,7 +172,7 @@ img {
 .showcase {
     min-height: 300px;
     /*max-width: 100%*/
-    background: url(img/climbing-leaves-1600.jpeg);
+    background: url(img/climbing-leaves-1600.jpg);
     padding-top: 3rem;
     padding-left: 3rem;
     padding-right: 3rem;
@@ -191,7 +191,7 @@ img {
 
 .single-showcase {
     min-height: 100px;
-    background: url(img/climbing-leaves-1600.jpeg);
+    background: url(img/climbing-leaves-1600.jpg);
     padding-top: 4rem;
     display: flex;
     flex-direction: column;
@@ -330,7 +330,7 @@ img {
 }
 
 .blog-box-background {
-    background: url(img/climbing-leaves-1600.jpeg);
+    background: url(img/climbing-leaves-1600.jpg);
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -363,7 +363,7 @@ img {
 }
 
 .service-box-background {
-    background: url(img/climbing-leaves-1600.jpeg);
+    background: url(img/climbing-leaves-1600.jpg);
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -414,10 +414,14 @@ img {
     margin-bottom:16px;
 }
 
+.sub-ul ul {
+    padding:0px 0px 0px 0px;
+}
+
 .sub-ul ul li {
     list-style: square;
     background:none;
-    padding:0px;
+    padding:0px 0px 0px 0px;
     margin-left:40px;
 }
 
@@ -605,11 +609,11 @@ footer > a {
     .showcase {
         min-height: 150px;
         padding:1rem;
-        background: url(img/climbing-leaves-700.jpeg);
+        background: url(img/climbing-leaves-700.jpg);
     }
 
     .single-showcase {
-        background: url(img/climbing-leaves-700.jpeg);
+        background: url(img/climbing-leaves-700.jpg);
         padding:0rem;
     }
 
@@ -666,7 +670,7 @@ footer > a {
     }
 
     .blog-box-background {
-        background: url(img/climbing-leaves-700.jpeg);
+        background: url(img/climbing-leaves-700.jpg);
     }
 
     .blog {
@@ -675,6 +679,11 @@ footer > a {
         margin: 20px;
         grid-template-columns: 1fr;
     }
+
+    .blog-post {
+        margin:20px;
+    }
+
 
     .enquiry-content {
         margin: 2rem 0rem 3rem;
@@ -720,4 +729,20 @@ footer > a {
 
 @media only screen and (min-width : 320px) and (max-width : 700px) {
 	body {-webkit-text-size-adjust: none;}
+}
+
+@media screen and (max-width: 640px) {
+    .service-summary {
+        height: 160px;
+    }
+
+    .service-boxes {
+        margin: 10px;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr))
+
+    }
+
+    .service-box {
+        padding: 0.0rem 0.5rem;
+    }
 }
