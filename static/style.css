@@ -18,6 +18,7 @@
     --champagne-pink: rgba(232, 221, 215, 1);
     --dust-storm: rgba(235, 207, 195, 1);
     --spanish-gray: rgba(147, 167, 156, 1);
+    --spanish-gray-test: rgba(245, 245, 245, 1);
     --dark-jungle-green: rgba(20, 33, 41, 1);
 }
 html,body
@@ -235,7 +236,22 @@ img {
     padding: 3rem 5rem;
     box-shadow: var(--shadow);
 }
+.indiv-image img {
+    /*width:200px;*/
+    /*height:200px;*/
+    /*border-radius: 50%;*/
+    /*overflow: hidden;*/
+    /*overflow: hidden;*/
+    /*!*width:200px;*!*/
+    /*!*height:200px;*!*/
+    /*!*border:10px;*!*/
+    /*border:5px solid var(--shadow);*/
+  /*!*background: url(img/tiger.png) no-repeat;*!*/
+  /*!*-moz-box-shadow: inset 10px 10px 50px #fff;*!*/
+  /*!*-webkit-box-shadow: inset 10px 10px 50px #fff;*!*/
+  /*box-shadow:  var(--shadow);*/
 
+}
 .comp-content {
     display: grid;
     grid-gap:50px;
@@ -396,6 +412,7 @@ img {
 .service-employer-box {
     /*background: url("img/wellness-word.jpg");*/
     /*background-size: 100%;*/
+    background: var(--spanish-gray-test);
     text-align: center;
     padding: 0.5rem 1.0rem 2.0rem;
     box-shadow: var(--shadow);
