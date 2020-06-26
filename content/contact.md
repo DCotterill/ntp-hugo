@@ -14,7 +14,7 @@ To follow me on my socials you can catch me in the following spots:
 
 Twitter:		
  
- [@dmcotter](http://www.twitter.com/dmcotter)
+ [@HappyGrnSprout](http://www.twitter.com/HappyGrnSprout)
 
 Instagram: 		
  
