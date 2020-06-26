@@ -14,11 +14,11 @@ Serves: 8
 Ingredients for the Pesto:
 
 * 1/3 cup walnuts
-* ½ cup Parmesan cheese, finely grated
+* 1/2 cup Parmesan cheese, finely grated
 * 2 garlic cloves
 * 2 cups of Basil
-* ½ teaspoon salt
-* ¼ teaspoon pepper
+* 1/2 teaspoon salt
+* 1/4 teaspoon pepper
 * 2/3 cup extra virgin Olive Oil
  
 **Directions for the Pesto**
@@ -28,21 +28,21 @@ Using a food processor process the walnuts and garlic until roughly chopped and 
 To make the meal you will need the following ingredients:
 
 * 4 rashers of bacon
-* ½ an onion
+* 1/2 an onion
 * 2-3 mushrooms
-* ¼ red pepper
-* ¼ green pepper
+* 1/4 red pepper
+* 1/2 green pepper
 * Tablespoon of ghee for frying
 * 8 tablespoons of pesto sauce above(half the batch)
 * 300g of dry weight Buckwheat Pasta
-* Optional - ½ avocado, parsley, walnuts or sesame seeds as desired.
+* Optional - 1/2 avocado, parsley, walnuts or sesame seeds as desired.
  
 **Directions**
 
 Add the ghee and stir fry the onions, bacon, mushrooms and red and green pepper.
 Meanwhile cook the buckwheat pasta according to the instructions. Drain the pasta, add to the frying pan and then add the pesto and warm it all back up – be careful not to overheat so that the good fats in the pesto are not denatured. Serve with a garnish of basil or parsley and a few chunks of avocado, crumbled walnuts, parsley and sesame seeds if desired  to add additional nutritional density to the meal.
 
-Photo: https://pixnio.com/food-and-drink/food-diet-flower-walnut-bread-kitchen-table
  
-# #wholefoods #familymeals #goodfats #glutenfree
+ #wholefoods #familymeals #goodfats #glutenfree
 
+Photo: https://pixnio.com/food-and-drink/food-diet-flower-walnut-bread-kitchen-table

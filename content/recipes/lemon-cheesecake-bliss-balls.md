@@ -19,13 +19,13 @@ What goes into the food processor:
 * Lemon juice of 2 lemons
 * 250g of Cashew Nuts
 * 75g of shredded coconut
-* ¼ cup of maple syrup
-* 1 and ½ tablespoons of coconut oil (melted)
-* ¼ teaspoon of turmeric powder or freshly chopped turmeric
+* 1/4 cup of maple syrup
+* 1 and 1/2 tablespoons of coconut oil (melted)
+* 1/4 teaspoon of turmeric powder or freshly chopped turmeric
  
 For rolling:
 
-* ¼ to ½ a cup of desiccated coconut for rolling the balls
+* 1/4 to 1/2 a cup of desiccated coconut for rolling the balls
  
 Preparation:
 
