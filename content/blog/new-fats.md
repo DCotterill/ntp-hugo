@@ -1,6 +1,6 @@
 ---
 title: "Why a low-fat or poor fat diet can be dentrimental to our health"
-date: 2019-06-21T12:34:20+10:00
+date: 2019-12-21T12:34:20+10:00
 draft: false
 Image: /blog/images/blog-new-fats.jpg
 ---

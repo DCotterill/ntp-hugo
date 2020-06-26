@@ -11,7 +11,7 @@ This recipe would also be good for someone who might have taken antibiotics rece
  
 Makes: 4-6 portions (depending on your size and appetite)
 
-Ingredients
+__Ingredients__
  
 * 1 x Red onion
 * 2 x Garlic cloves
@@ -31,11 +31,11 @@ Optional:
 
 * a dose of olive oil, seeds, herbs or seaweed to sprinkle on top
  
-Preparation:
+__Preparation:__
 
 * Allow yourself: 1 hour
  
-Chop the turnip, purple sweet potato, parsnips and carrots in to bite sized chunks, place them on a baking tray and coat in olive oil and put into the oven at 190 degrees to roast. Cook for 20-30 minutes, checking regularly. 
+Chop the turnip, purple sweet potato, parsnips and carrots in to bite sized chunks, place them on a baking tray and coat in olive oil and put into the oven at 190&deg;C to roast. Cook for 20-30 minutes, checking regularly. 
 
 Whilst the veggies are roasting add ghee or coconut oil to the soup pan and fry the bacon, then remove from the pan and reserve for later. Chop onion, garlic and fennel bulb and fry in ghee until golden brown. Then add the chicken stock to the pan and warm through. Once it starts to simmer, turn off the hob and allow to cool, then blend with a hand blender. Now return to the hob and simmer whilst waiting for the vegetables to roast in the oven. Once the veg is roasted, add the roasted veg, roast chicken and bacon. Warm through and serve and serve with a few fennel fronds or another garnishes to increase the nutrient density.
  

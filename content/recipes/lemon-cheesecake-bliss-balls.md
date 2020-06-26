@@ -11,7 +11,7 @@ This recipe is good for someone with a dairy intolerance who loves cheesecake (p
  
 Makes: 32
 
-Ingredients
+__Ingredients__
  
 What goes into the food processor:
 
@@ -27,7 +27,7 @@ For rolling:
 
 * 1/4 to 1/2 a cup of desiccated coconut for rolling the balls
  
-Preparation:
+__Preparation:__
 
 * Prep time: 10-20 minutes
 * Allow yourself: 1 hour

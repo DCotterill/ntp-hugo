@@ -33,6 +33,6 @@ I could tell you about all the polyphenols, vitamin and mineral content of each 
 
 And remember different colours tend to indicate a different nutrient profile, so if you look to add different coloured foods - including the herbs and spices you add - you’ll likely get a variety of different nutrients in your meal and enjoy your meal more too. 
 
-References:Ballantyne, S. PhD, (2017). Paleo Principles. Las Vegas, NV: Victoria Belt Publishing, Inc.
+__References:__Ballantyne, S. PhD, (2017). Paleo Principles. Las Vegas, NV: Victoria Belt Publishing, Inc.
 
 Dr Mat Lalonde, PhD presenting at the Ancestral Health Symposium 2012 - https://www.youtube.com/watch?v=HwbY12qZcF4   
