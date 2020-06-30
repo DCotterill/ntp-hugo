@@ -6,15 +6,12 @@ Image: /img/Di-600.jpeg
 static_page: true
 ---
 
-To organise an appointment or if you have a general enquiry please email me:
+To organise an appointment or if you have a general enquiry you can email me:
  	
- [happygreensprout@gmail.com](mailto:happygreensprout@gmail.com)
+ [diane@happygreensprout.com](mailto:happygreensprout@gmail.com)
 
 To follow me on my socials you can catch me in the following spots:
 
-Twitter:		
- 
- [@HappyGrnSprout](http://www.twitter.com/HappyGrnSprout)
 
 Instagram: 		
  
@@ -24,5 +21,7 @@ Facebook Page:
  
  [Happy Green Sprout - Facebook](https://www.facebook.com/HappyGreenSprout)
 
-
+Twitter:		
+ 
+ [@HappyGrnSprout](http://www.twitter.com/HappyGrnSprout)
 
