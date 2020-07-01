@@ -97,25 +97,6 @@
             </section>
         </div>
 
-        <!--<section class="instafeed">-->
-            <!--<div class="instagram-pics">-->
-                <!--{{ $dataJ := getJSON (printf "https://api.instagram.com/v1/users/self/media/recent/?access_token=%s" .Site.Params.inst_access) }}-->
-                <!--{{ range first 10 $dataJ.data }}-->
-                    <!--<a href="{{ .link }}" target="_new">-->
-
-                        <!--<div class="instagram-pic"-->
-                         <!--style="background: url({{ .images.standard_resolution.url }}) no-repeat center top;background-size:cover;">-->
-                        <!--&lt;!&ndash;<p>&ndash;&gt;-->
-                            <!--&lt;!&ndash;{{ with .caption }}{{ .text }}<br>&ndash;&gt;-->
-                            <!--&lt;!&ndash;<br>{{ end }}&ndash;&gt;-->
-                            <!--&lt;!&ndash;<span class="play-date" data-date="{{ .created_time }}"></span>&ndash;&gt;-->
-                        <!--&lt;!&ndash;</p>&ndash;&gt;-->
-                        <!--</div>-->
-                    <!--</a>-->
-                <!--{{ end }}-->
-            <!--</div>-->
-        <!--</section>-->
-
 
     {{partial "footer.html" .}}
 

@@ -20,6 +20,14 @@
           } else {
             x.className = "topnav";
           }
+
+          var x = document.getElementById("header");
+          if (x.className === "header sticky") {
+            x.className += " responsive-menu";
+          } else {
+            x.className = "header sticky";
+          }
+
         }
     </script>
 
