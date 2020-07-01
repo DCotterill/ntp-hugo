@@ -22,8 +22,8 @@ googleAnalytics = "UA-168575542-1"
         weight = 10
 
     [[menu.main]]
-        identifier = "services"
-        name="Services"
+        identifier = "work-with-me"
+        name="Work With Me"
         url="/services"
         weight=20
 
