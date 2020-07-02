@@ -497,10 +497,10 @@ img {
 
 .radiocontainer {
     min-width:0rem;
-  display: inline-grid;
-  /* tells the auto-placement algorithm to attempt to fill in holes earlier in the grid if smaller items come up later */
-  grid-auto-flow: dense;
-  align-items: center;
+    display: inline-grid;
+    /* tells the auto-placement algorithm to attempt to fill in holes earlier in the grid if smaller items come up later */
+    grid-auto-flow: dense;
+    align-items: center;
 }
 
 .radiocontainer label {
@@ -515,9 +515,9 @@ img {
     width:100%;
     font-family: Raleway, sans-serif;
     grid-column: auto;
-  box-sizing: border-box;
-  border: 2px solid #ccc;
-  border-radius: 4px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
 }
 
 textarea {
@@ -529,13 +529,12 @@ textarea {
 
       width: 100%;
     max-width: 60rem;
-  height: 150px;
-  box-sizing: border-box;
-  border: 2px solid #ccc;
-  border-radius: 4px;
-  /*background-color: #f8f8f8;*/
-  resize: none;
-
+    height: 150px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    /*background-color: #f8f8f8;*/
+    resize: none;
 }
 
 .side-content {
@@ -543,15 +542,8 @@ textarea {
     grid-row: 1 / span 2;
 }
 
-.blog-item img {
-    /*min-width: 250px;*/
-    /*max-width: 500px;*/
-    /*margin:1.5rem; 0px;*/
-}
-
 .blog-date {
     font-size: 0.9rem;
-    /*font-weight: light;*/
 }
 
 .blog-post {
@@ -622,7 +614,7 @@ footer > a {
     color: var(--dark-jungle-green);
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 750px) {
   .topnav a {display: none;}
   .topnav a.icon {
     float: right;
@@ -631,11 +623,10 @@ footer > a {
 
   .header {
       /*flex-direction: column;*/
-
   }
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 750px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     /*position: absolute;*/
@@ -656,7 +647,22 @@ footer > a {
 }
 
 /* Media Queries */
-@media(max-width: 700px) {
+@media only screen and (min-width : 750px) and (max-width : 1024px) {
+
+    .showcase {
+        min-height: 150px;
+        padding: 1rem;
+    }
+
+    .intro-content {
+        margin:0rem 0rem 1rem;
+        padding: 1rem 1rem;
+    }
+
+}
+
+/* Media Queries */
+@media screen and (max-width: 750px) {
 
     .showcase {
         min-height: 150px;
@@ -674,7 +680,6 @@ footer > a {
     }
 
     .single-showcase h1 {
-
         font-size:2rem;
     }
 
@@ -744,22 +749,9 @@ footer > a {
     .service-boxes {
         margin: 15px;
     }
-
-    /*.main-nav ul {*/
-        /*grid-template-columns: 1fr;*/
-        /*font-family: Raleway, sans-serif;*/
-        /*margin: 0px 200px;*/
-        /*display: grid;*/
-        /*grid-gap: 40px;*/
-        /*padding:10px;*/
-        /*list-style: none;*/
-        /*!*grid-template-columns: repeat(5, 1fr);*!*/
-
-    /*}*/
 }
 
-@media screen and (max-width:700px) {
-    /*.main-nav li.menu {display:none;}*/
+@media screen and (max-width:750px) {
     .main-nav a.icon {
         float:right;
         display:block;
@@ -768,18 +760,9 @@ footer > a {
     .sticky {
         position: relative;
     }
-
-
-    /*.company-left {*/
-        /*display: none;*/
-    /*}*/
-
-    /*.company-right {*/
-        /*display: flex;*/
-    /*}*/
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 750px) {
     .main-nav.responsive {position: relative;}
     .main-nav.responsive a.icon {
         position: absolute;
@@ -788,14 +771,13 @@ footer > a {
     }
 }
 
-@media only screen and (min-width : 320px) and (max-width : 700px) {
+@media only screen and (min-width : 320px) and (max-width : 750px) {
 	body {
         -webkit-text-size-adjust: none;
-        /*-webkit-overflow-scrolling:touch;*/
     }
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 750px) {
     .service-summary {
         height: 160px;
     }
