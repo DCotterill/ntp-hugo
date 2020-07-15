@@ -1,6 +1,6 @@
 ---
 title: "Launching my new business - Happy Green Sprout"
-date: 2020-07-05T12:34:20+10:00
+date: 2020-07-10T12:34:20+10:00
 draft: false
 Image: /blog/images/blog-basil-tomato-spoon.jpg
 ---
@@ -9,11 +9,11 @@ Image: /blog/images/blog-basil-tomato-spoon.jpg
 
 
 
-It’s been a little while in the making but I’m finally launching my new 
+I'm excited to announce the launch of my new 
 nutrition business [Happy Green Sprout](/). I’m 
-passionate about helping people to understand the way that food and lifestyle can help them to live a better life. You don’t have to change everything in your life to feel better, small incremental changes can make a big difference to your health.
+passionate about helping people to understand the way that food and lifestyle can change how they feel, so they can live a better life. You don’t have to change everything in your life to feel better, small incremental changes can make a big difference to your health.
 
-Frustrated by the lack of clear guidance on what constitutes healthy food and the mixed messages from government, media, the food industry and the medical profession, I was keen to understand the latest science and help people to implement small, simple changes that can impact their wellbeing, and help them to understand the way they can help themselves. 
+Frustrated by the lack of clear guidance on what constitutes healthy food and the mixed messages from government, media, the food industry and the medical profession, I was keen to understand the latest science and assist people to implement small, simple changes that can impact their wellbeing.
 
 In order to further develop my knowledge of the latest nutrition science, I decided to study and become qualified as a Functional Nutritional Therapy Practitioner with the NTA.
 
