@@ -29,8 +29,7 @@ I’ve always enjoyed helping people and I’m excited to see the results of the
 Are you interested in working with me?
 
 You can find out more about my corporate or individual 
-packages [here](/services/), or feel free to email me at [diane@happygreensprout
-.com](mailto:diane@happygreensprout.com) 
+packages [here](/services/), or feel free to email me at [diane@happygreensprout.com](mailto:diane@happygreensprout.com) 
 give me a call on 
 0415 524401, if you have any other questions.
 
