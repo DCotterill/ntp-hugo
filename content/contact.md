@@ -8,7 +8,7 @@ static_page: true
 
 To organise an appointment or if you have a general enquiry you can email me:
  	
- [diane@happygreensprout.com](mailto:happygreensprout@gmail.com)
+ [diane@happygreensprout.com](mailto:diane@happygreensprout.com)
 
 To follow me on my socials you can catch me in the following spots:
 
