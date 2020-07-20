@@ -3,6 +3,7 @@ title: "Clean Eating Nutty 'Chocolate'"
 date: 2020-07-19T12:34:20+10:00
 draft: false
 Image: /recipes/images/clean-eating-nutty-chocolate.JPG
+og_image: /recipes/images/clean-eating-nutty-chocolate.JPG
 ---
 
 This is a great option if you are looking for a healthier alternative when that 2.30pm feeling for something sweet really hits. You can make this recipe as a plain ‘chocolate’ with no chunky ingredients, and if you do it only takes 5 minutes to combine the ingredients. Or, you can combine it together with a variety of different nuts, seeds or coconut to give it an extra crunch. This recipe suggests roasting your seeds and nuts - which is really yummy - but you could easily use raw nuts or activated nuts instead, which would be more nutrient dense. It’s calorie dense so a little goes a long way. I break it up into different sizes so I can choose a piece that fits my appetite on the day.

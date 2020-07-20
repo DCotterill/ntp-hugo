@@ -3,6 +3,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
+    {{ if .Params.og_image }}
+      <meta property="og:image"
+            content="https://wwww.happygreensprout.com{{ .Params.og_image | relURL }}"/>
+    {{ else }}
+      <meta property="og:image" content="https://www.happygreensprout.com/img/hgs-screenshot-5.png"/>
+    {{ end }}
+
     <meta property="og:image"
           content="https://www.happygreensprout.com/img/hgs-screenshot-5.png" />
     <!--<meta property="og:image:width" content="1342"/>-->
