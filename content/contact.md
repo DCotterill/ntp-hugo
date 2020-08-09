@@ -15,7 +15,7 @@ To follow me on my socials you can catch me in the following spots:
 
 Instagram: 		
  
- [@cotterilldiane](http://www.instagram.com/cotterilldiane)
+ [@happy_green_sprout](https://www.instagram.com/happy_green_sprout/)
 
 Facebook Page: 	
  
