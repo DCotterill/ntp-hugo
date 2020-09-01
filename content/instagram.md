@@ -5,6 +5,13 @@ draft: false
 Image: 
 static_page: true
 layout: "instagram"
+
+links:
+    - description: "hello"
+      url: "http://www.hello.com"
+    - description: "bye bye"
+      url: "http://www.bye.com"
+      
 ---
 
 

@@ -45,3 +45,14 @@ googleAnalytics = "UA-168575542-1"
         url="/contact"
         weight=50
 
+[link]
+
+    [[link.main]]
+        description="hello"
+        url="http://www.hello.com"
+
+    [[link.main]]
+        description="bye bye"
+        url="http://www.bye.com"
+
+

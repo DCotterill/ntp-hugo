@@ -131,17 +131,17 @@
                 <div class="links">
                     <div>
                         <div>
-                            <div class="link fill">
-                                <a class="btn btn-link" target="_blank" rel="noopener" href="https://www.facebook.com/darren.cotterill">
-                                    My facebook page
-                                </a>
-                            </div>
 
-                            <div class="link fill">
-                                <a class="btn btn-link" target="_blank" rel="noopener" href="https://dcotterill.com/">
-                                    My personal site
-                                </a>
-                            </div>
+                            {{ range .Params.links }}
+
+                                <div class="link fill">
+                                    <a class="btn btn-link" target="_blank"
+                                       rel="noopener" href="{{ .url }}">
+                                        {{ .description }}
+                                    </a>
+                                </div>
+
+                            {{ end }}
 
                         </div>
                     </div>
