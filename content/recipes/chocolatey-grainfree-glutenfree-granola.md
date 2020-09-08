@@ -1,9 +1,8 @@
 ---
 title: "Chocolatey Grain-free, Gluten-free Granola"
 date: 2020-09-08T12:34:20+10:00
-draft: true
+draft: false
 Image: /recipes/images/granola-with-yoghurt-and-berries.JPG
-Image: /recipes/images/granola-jar.JPG
 og_image: /recipes/images/granola-with-yoghurt-and-berries.JPG
 ---
 
@@ -27,7 +26,7 @@ __Ingredients__
 * 2 tablespoons of chia seeds
 * 1 tablespoon of raw organic cacao powder
 * 1 tablespoon of pumpkin seeds
-* 1 teaspoon of cinnamon(optional)
+* 1 teaspoon of cinnamon (optional)
 * 1/4 cup of coconut oil 
 
 __Preparation:__
@@ -38,3 +37,5 @@ __Preparation:__
 Put the oven on 120 ℃ to warm up and put coconut oil in a saucepan on the hob to melt it if necessary. Meanwhile roughly chop the mixed nuts, leaving a few whole, as desired. Put all the ingredients in a bowl and mix them up with the melted coconut oil. Line a baking tray with baking paper and spread the mixture evenly and put into the oven for 15-20 minutes, turning every 5-10 minutes so that you can check it doesn't burn. Once it's as crunchy as you desire (usually starting to turn a brown), remove from the oven and allow to cool on the baking tray before transferring to a mason jar for storage. 
  
 #healthybreakfast #healthytreats #kidstreats #glutenfree #taketowork
+
+![](/recipes/images/granola-jar.JPG)
