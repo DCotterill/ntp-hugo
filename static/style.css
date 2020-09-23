@@ -508,7 +508,7 @@ img {
   grid-column: 2;
 }
 
-.enquiry-content form input[type=text] {
+.enquiry-content form input[type=text], form input[type=email]{
     height:2rem;
     min-width: 10rem;
     max-width: 20rem;

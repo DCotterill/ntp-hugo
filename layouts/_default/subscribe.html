@@ -28,8 +28,13 @@ getUrlParameter('source');">
 
         <section class="enquiry-content">
 
-            <form name="email-subscribe" method="POST" data-netlify="true"
+            <form name="contact" method="POST" data-netlify="true"
                   action="/subscribe-thanks">
+
+              <p>
+                  <label>Name:</label>
+                  <input type="text" name="name" required/>
+              </p>
 
               <p>
                   <label>Email address:</label>
