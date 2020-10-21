@@ -27,21 +27,10 @@ getUrlParameter('source');">
         </section>
 
 
-        <div class="blog-post">
-                <img class="blog-post-image" src="{{ .Params.image}}"/>
-
-                <h2>{{.Title}}</h2>
-
-    {{ if not (.Params.static_page) }}
-                <p>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</p>
-    {{ end }}
-                <div class="blog-content">{{.Content}}</div>
-        </div>
         <section class="blog-post">
 
             <img class="blog-post-image" src="{{ .Params.image}}"/>
 
-            <h2>{{.Title}}</h2>
             <div class="blog-content">{{.Content}}</div>
 
             <form name="webinar-register-october-2019" method="POST"
