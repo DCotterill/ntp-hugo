@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09d5d942-271b-4136-828d-50473f01635a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/layouts/_default/static.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/enquiry-thanks.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/enquiry-thanks.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/subscribe-thanks.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/subscribe-thanks.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/webinar-registration-october-2020.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/webinar-registration-october-2020.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/webinar-thanks.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/webinar-thanks.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/layouts/_default/webinar-registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/webinar-registration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,8 +17,26 @@
       <file leaf-file-name="single.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layouts/_default/single.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+            <state relative-caret-position="105">
+              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webinar-registration.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/layouts/_default/webinar-registration.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="522" lean-forward="true" selection-start-line="522" selection-end-line="522" />
             </state>
           </provider>
         </entry>
@@ -37,21 +50,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="instagram.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layouts/_default/instagram.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2175">
-              <caret line="145" selection-start-line="145" selection-end-line="145" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layouts/_default/list.html">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="webinar-thanks.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="webinar-thanks.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/webinar-thanks.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -96,15 +100,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="enquiry.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layouts/_default/enquiry.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="webinar-registration-october-2020.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/webinar-registration-october-2020.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -128,8 +123,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>twitter</find>
-      <find>topnav</find>
       <find>column</find>
       <find>company im</find>
       <find>responsibe</find>
@@ -158,6 +151,8 @@
       <find>enquir</find>
       <find>title</find>
       <find>form</find>
+      <find>input</find>
+      <find>enquiry-content</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -212,13 +207,13 @@
         <option value="$PROJECT_DIR$/layouts/_default/webinar-subscription.html" />
         <option value="$PROJECT_DIR$/layouts/_default/services.html" />
         <option value="$PROJECT_DIR$/content/webinar-registration-october-2019.md" />
-        <option value="$PROJECT_DIR$/static/style.css" />
-        <option value="$PROJECT_DIR$/layouts/_default/webinar-registration.html" />
         <option value="$PROJECT_DIR$/content/webinar-registration-october-2020.md" />
         <option value="$PROJECT_DIR$/layouts/_default/static.html" />
         <option value="$PROJECT_DIR$/content/subscribe-thanks.md" />
         <option value="$PROJECT_DIR$/content/enquiry-thanks.md" />
         <option value="$PROJECT_DIR$/content/webinar-thanks.md" />
+        <option value="$PROJECT_DIR$/static/style.css" />
+        <option value="$PROJECT_DIR$/layouts/_default/webinar-registration.html" />
       </list>
     </option>
   </component>
@@ -657,20 +652,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="492" selection-start-line="492" selection-end-line="492" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/_default/webinar-registration.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="65" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/layouts/_default/subscribe.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -702,27 +683,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/_default/single.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/layouts/_default/static.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/webinar-registration-october-2020.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="30" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -753,6 +717,37 @@
             <caret line="16" column="79" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/webinar-registration-october-2020.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/_default/single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="522" lean-forward="true" selection-start-line="522" selection-end-line="522" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/_default/webinar-registration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>

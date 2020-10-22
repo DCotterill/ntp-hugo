@@ -497,7 +497,7 @@ img {
 
 .blog-post form {
     display:grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: 2fr;
 }
 
 .blog-post form label {
@@ -521,7 +521,7 @@ img {
   grid-column: 2;
 }
 
-.enquiry-content form input[type=text], form input[type=email]{
+.enquiry-content form input[type=text], form input[type=email] {
     height:2rem;
     min-width: 10rem;
     max-width: 20rem;
@@ -532,6 +532,7 @@ img {
     border: 2px solid #ccc;
     border-radius: 4px;
 }
+
 
 textarea {
     /*height:2rem;*/
