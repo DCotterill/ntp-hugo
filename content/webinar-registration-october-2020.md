@@ -29,7 +29,8 @@ This package will include:
 current concerns
 * One-on-one coaching to help you implement the changes you decide on. 
 
-The webinar is happening on Thursday 29th October at 12.30pm - 1.30pm. So why not join me, BYO lunch and find out how I can help you to help yourself and your health.
+The webinar is happening on Thursday 29th October at 12.30pm - 1.30pm AEST. So 
+why not join me, BYO lunch and find out how you can make some quick easy changes to improve your health!
 
 
 
