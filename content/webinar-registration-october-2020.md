@@ -20,8 +20,7 @@ and lifestyle that can impact your health everyday and how you can maintain a
  
 During the webinar I’ll also explain how you can 
  enter to win the [Individual Nutrition Coaching package](/services#indiv-packages)
- (subject to [Terms 
- and Conditions below](#termsandconditions)).
+ (subject to [Terms and Conditions below](#termsandconditions)).
  
 This package will include:
 

@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+{{ partial "head.html" .}}
+
+<body>
+    <div class="wrapper">
+
+        {{ partial "header.html" .}}
+
+        <section class="top-single-container">
+            <header class="single-showcase">
+                <h1>{{.Title}}</h1>
+            </header>
+        </section>
+        <div class="blog-post">
+                <img class="blog-post-image" src="{{ .Params.image}}"/>
+
+                <div class="blog-content">{{.Content}}</div>
+        </div>
+    {{partial "footer.html" .}}
+
+    </div> <!-- wrapper ends -->
+
+</body>
+</html>
