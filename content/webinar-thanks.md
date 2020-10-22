@@ -11,13 +11,13 @@ layout: "static"
 
 You’ll be receiving a Zoom link via your registered email address, 24-48 hours before the webinar so keep an eye out for that. The webinar will only be broadcast live and a recording for this will not be available. 
 
-In the meantime you might like to like my [Happy Green Sprout Facebook Page](https://www.facebook
-.com/HappyGreenSprout) or visit me on Insta.
+In the meantime you might like to like my [Happy Green Sprout Facebook Page]
+(https://www.facebook.com/HappyGreenSprout) or visit me on [Instagram]
+(https://www.instagram.com/happy_green_sprout/).
 
 ### Don’t forget that to qualify for the Nutritional Therapy giveaway you will need to:
 
-* Like my [Happy Green Sprout Facebook Page](https://www.facebook
-.com/HappyGreenSprout)
+* Like my [Happy Green Sprout Facebook Page](https://www.facebook.com/HappyGreenSprout)
 * Attend the live webinar
 * Register to win on the Happy Green Sprout website after attending the webinar (details provided during the webinar)
 * Be based in Australia for insurance reasons
