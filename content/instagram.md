@@ -7,6 +7,8 @@ static_page: true
 layout: "instagram"
 
 links:
+    - description: "Webinar (October 2020 Registration"
+      url: "https://www.happygreensprout.com/webinar-registration-october-2020/"
     - description: "Happy Green Sprout Website"
       url: "https://www.happygreensprout.com"
     - description: "Facebook Page"
