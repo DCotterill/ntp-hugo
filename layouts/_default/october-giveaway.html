@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{{partial "head.html" .}}
+<script>
+    function getUrlParameter(name) {
+        name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+        var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+        var results = regex.exec(location.search);
+        return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+    };
+
+
+
+</script>
+<body onload="javascript:document.getElementById('source').value =
+getUrlParameter('source');">
+
+    <div class="wrapper">
+
+        {{ partial "header.html" .}}
+
+        <section class="top-container">
+            <header class="single-showcase">
+                <h1>{{.Title}}</h1>
+            </header>
+        </section>
+
+
+        <section class="blog-post">
+
+            <img class="blog-post-image" src="{{ .Params.image}}"/>
+
+            <div class="blog-content">{{.Content}}</div>
+
+            <form name="october-giveaway" method="POST"
+                  data-netlify="true"
+                  action="/october-giveaway-thanks">
+
+              <p>
+                  <label>Full Name:</label>
+                  <input type="text" name="name" required/>
+              </p>
+              <p>
+                  <label>Email address:</label>
+                  <input type="email" name="email" id="email" required/>
+              </p>
+              <p>
+                  <label>Contact Phone Number:</label>
+                  <input type="text" name="phone" required/>
+              </p>
+              <p>
+                  <label>Location (Suburb & State):</label>
+                  <input type="text" name="phone" required/>
+              </p>
+              <p>
+                  <label>
+                    Do you have a particular ailment you are looking
+                      to improve through the work we do together on nutritional therapy?
+                  </label>
+                  <textarea name="ailment" required></textarea>
+              </p>
+
+              <p>
+                  <label>
+                    (Optional) Any additional questions you have, or things
+                      you’d like me to know.
+                  </label>
+                  <textarea name="questions"></textarea>
+              </p>
+
+              <p>
+                   We understand your privacy is important. We may
+                  contact you about future promotions, but don't worry,
+                  you'll be able to easily unsubscribe at any time.
+              </p>
+              <p>
+                <button href="" type="submit" class="btn">Enter</button>
+              </p>
+            </form>
+
+        </section>
+
+    {{partial "footer.html" .}}
+
+    </div> <!-- wrapper ends -->
+
+</body>
+</html>

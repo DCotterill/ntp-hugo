@@ -533,6 +533,18 @@ img {
     border-radius: 4px;
 }
 
+.blog-post form input[type=text], form input[type=email] {
+    height:2rem;
+    min-width: 10rem;
+    max-width: 20rem;
+    width:100%;
+    font-family: Raleway, sans-serif;
+    grid-column: auto;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+}
+
 
 textarea {
     /*height:2rem;*/
@@ -541,7 +553,7 @@ textarea {
     font-size:15px;
     grid-column: auto;
 
-      width: 100%;
+    width: 100%;
     max-width: 60rem;
     height: 150px;
     box-sizing: border-box;
