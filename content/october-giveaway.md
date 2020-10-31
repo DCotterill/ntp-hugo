@@ -15,7 +15,7 @@ Please fill in this form to enter for your chance to win the Nutritional Therapy
  
 Don’t forget that to qualify to win, you will need to:
 
-* Like my Happy Green Sprout Facebook Page
+* Like my [Happy Green Sprout Facebook Page](https://www.facebook.com/HappyGreenSprout)
 * Be based in Australia for insurance reasons
 * Undertake the nutritional therapy offer within the month of November 2020
 

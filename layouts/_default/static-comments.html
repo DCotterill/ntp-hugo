@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+{{ partial "head.html" .}}
+
+<body>
+    <div class="wrapper">
+
+        {{ partial "header.html" .}}
+
+        <section class="top-single-container">
+            <header class="single-showcase">
+                <h1>{{.Title}}</h1>
+            </header>
+        </section>
+        <div class="blog-post">
+                <div class="blog-content">{{.Content}}</div>
+        </div>
+
+        <div class="blog-comments">
+            {{ template "_internal/disqus.html" . }}
+        </div>
+
+    {{partial "footer.html" .}}
+
+    </div> <!-- wrapper ends -->
+
+</body>
+</html>
