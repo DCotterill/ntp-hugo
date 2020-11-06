@@ -7,8 +7,8 @@ static_page: true
 layout: "instagram"
 
 links:
-    - description: "Webinar (October 2020) Registration"
-      url: "https://www.happygreensprout.com/webinar-registration-october-2020/"
+    - description: "Webinar (October 2020) Video"
+      url: "https://www.happygreensprout.com/october-2020-webinar-video/"
     - description: "Happy Green Sprout Website"
       url: "https://www.happygreensprout.com"
     - description: "Facebook Page"
@@ -17,6 +17,8 @@ links:
       url: "https://twitter.com/HappyGrnSprout"
     - description: "All My Recipes"
       url: "https://www.happygreensprout.com/recipes/"
+      - description: "GF Meatball recipe"
+      url: "https://www.happygreensprout.com/gluten-free-meatballs-and-burger-recipe/"
     - description: "Grain Free Granola"
       url: "https://www.happygreensprout.com/recipes/chocolatey-grainfree-glutenfree-granola/"
     - description: "Chocolate Peppermint Bliss Balls"

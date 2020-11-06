@@ -24,7 +24,7 @@ Makes: 60 Meatballs
 
 __Ingredients__
  
-* 1kg of beef mince or 500g beef/500g pork (or you could switch for other ground meat - lamb, chicken, turkey). My family love 50/50 beef and pork.
+* 1kg of beef mince or 500g beef/500g pork (or you could switch for other ground meat - lamb, chicken, turkey). My family love 50-50 beef and pork.
 * 2 eggs
 * 1/8 cup - almond flour 
 * 1/4 cup of parmesan cheese
