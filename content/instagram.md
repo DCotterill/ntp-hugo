@@ -18,7 +18,7 @@ links:
     - description: "All My Recipes"
       url: "https://www.happygreensprout.com/recipes/"
     - description: "GF Meatball recipe"
-      url: "https://www.happygreensprout.com/gluten-free-meatballs-and-burger-recipe/"
+      url: "https://www.happygreensprout.com/recipes/gluten-free-meatballs-and-burger-recipe/"
     - description: "Grain Free Granola"
       url: "https://www.happygreensprout.com/recipes/chocolatey-grainfree-glutenfree-granola/"
     - description: "Chocolate Peppermint Bliss Balls"
