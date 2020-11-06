@@ -17,7 +17,7 @@ links:
       url: "https://twitter.com/HappyGrnSprout"
     - description: "All My Recipes"
       url: "https://www.happygreensprout.com/recipes/"
-      - description: "GF Meatball recipe"
+    - description: "GF Meatball recipe"
       url: "https://www.happygreensprout.com/gluten-free-meatballs-and-burger-recipe/"
     - description: "Grain Free Granola"
       url: "https://www.happygreensprout.com/recipes/chocolatey-grainfree-glutenfree-granola/"
