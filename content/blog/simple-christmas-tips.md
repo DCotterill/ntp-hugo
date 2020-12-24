@@ -1,5 +1,5 @@
 ---
-title: "My simple tips to "
+title: "My simple tips to make your post Christmas reset much easier!"
 date: 2020-12-24T12:34:20+10:00
 draft: false
 Image: /blog/images/blog-christmas-tips.jpg
