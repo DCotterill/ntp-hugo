@@ -70,7 +70,7 @@ It’s also worth thinking of some family fun that gets the pulse’s racing - m
 
 ## And finally...
 
-Most of all, have fun over your break during this difficult time, and if possible make the most of spending time with people you love. If you can make just a little time to think of your own health and fit in some of my tips, it'll definitely help you in the long run. 
+Most of all have fun over your break, and if possible make the most of spending time with people you love. If you can make just a little time to think of your own health and fit in some of my tips, it'll definitely help you in the long run. 
 
 Wishing you all a Happy Christmas and a Fantastically Healthy New Year!
 
