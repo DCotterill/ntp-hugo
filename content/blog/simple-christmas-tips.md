@@ -1,22 +1,21 @@
 ---
-title: "My simple tips to make your post Christmas reset much easier!"
+title: "My simple tips to "
 date: 2020-12-24T12:34:20+10:00
 draft: false
 Image: /blog/images/blog-christmas-tips.jpg
 ---
 
-
 We all like to have a bit of Christmas cheer and we don’t want to be a party pooper on the day. Life is for living after all! 
 
-But there are a few easy things that we can do that can help us to feel better and minimise the impact of our indulgences during the holidays, so we don’t get to January and wonder what went wrong.
+But there are a few easy things that we can do that can help us feel better and minimise the impact of our indulgences during the holidays, so we don’t get to January and wonder what went horribly wrong.
 
-So,  here are a few of my top tips for the festive season. I’ll be posting a few of them on Instagram and Facebook, but here is the full cheat sheet if you want to read it in one sitting.
+So, here are a few of my top tips for the festive season. I’ll be posting a few of them on Instagram and Facebook, but here is the full cheat sheet if you want to read it in one sitting.
 
 __Choose your snacks wisely__
 
-When you’re eying that snack platter, consider what will provide your body with nutrients rather than depleting your body. Often the good choices are as delicious as the bad ones, but you forget to think about it.
+When you’re eyeing up that snack platter, consider what will provide your body with nutrients rather than depleting your body. Often the good choices are as delicious as the bad ones, but you forget to think about it.
 
-You can often find a wide variety of veggies on offer, from the humble carrot stick to olives and stuffed peppers. Or seek out the ham, cheese and raw nuts if you can find them rather than the carby cheese biscuits, popcorn, bowls of lollies, chocolate.
+You can often find a wide variety of veggies on offer, from the humble carrot stick to olives and stuffed peppers. Or seek out the ham, cheese and raw nuts if you can find them rather than the carby cheese biscuits, popcorn, bowls of lollies or chocolate.
 
 If you choose the snacks that are higher in protein and good fats you’ll still feel like you’ve had a feast, but you won’t be fighting the high blood sugar surges that come from a high carb snack.
 
@@ -36,7 +35,7 @@ __Go for a walk after each meal__
 
 It’s easy to not go anywhere between Christmas and New Year and it’s really important to make sure we get in some exercise every day. An easy way to do this, even if you’re not an exercise nut, is to make sure you go for a short walk after each meal, either solo or socially as a family. 
 
-A 15 minute walk is enough to curb a post-meal blood sugar spike. Post-meal high blood sugar is a key risk factor in the progression from impaired glucose tolerance to Type 2 diabetes and cardiovascular disease. Putting the science to one side, you’ll feel much better when you get back home having burnt off some energy. 
+Studies show that a 15 minute walk is enough to significantly curb a post-meal blood sugar spike which is a key risk factor in the progression from impaired glucose tolerance to Type 2 diabetes and cardiovascular disease. You’ll also feel much better when you get back home having burnt off some energy. 
 
 
 __Give your digestion a break every night__
@@ -66,7 +65,7 @@ The run up to Christmas can be a pretty busy time for most of us, but in that ti
 
 It could be the time to start a new exercise habit, perhaps 15 minutes of home-based yoga every day, 10 minutes of weights each day or trying to beat your own personal plank record whilst watching telly. Anything you do will be a benefit, you’ll most likely find it fun, and it could form a healthy habit that continues into 2021.
 
-It’s also worth thinking of some family fun that gets the pulse’s racing - maybe Boxing Day cricket, a family game of pool volleyball or just a dance around the lounge room to get the blood pumping. So if the kids ask you to join in with their basketball game this Christmas, think twice before you say no.
+It’s also worth thinking of some family fun that gets your pulse racing - maybe Boxing Day cricket, a family game of pool volleyball or just a dance around the lounge room to get the blood pumping. So if the kids ask you to join in with their basketball game this Christmas, think twice before you say no.
 
 __And finally...__
 
