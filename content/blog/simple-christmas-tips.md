@@ -68,6 +68,7 @@ It could be the time to start a new exercise habit, perhaps 15 minutes of home-b
 
 It’s also worth thinking of some family fun that gets the pulse’s racing - maybe Boxing Day cricket, a family game of pool volleyball or just a dance around the lounge room to get the blood pumping. So if the kids ask you to join in with their basketball game this Christmas, think twice before you say no.
 
+## And finally...
 
 Most of all, have fun over your break during this difficult time, and if possible make the most of spending time with people you love. If you can make just a little time to think of your own health and fit in some of my tips, it'll definitely help you in the long run. 
 
