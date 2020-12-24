@@ -7,6 +7,8 @@ static_page: true
 layout: "instagram"
 
 links:
+    - description: "Simple Christmas Tips"
+      url: "https://www.happygreensprout.com/blog/simple-christmas-tips/"
     - description: "Webinar (October 2020) Video"
       url: "https://www.happygreensprout.com/october-2020-webinar-video/"
     - description: "Happy Green Sprout Website"
