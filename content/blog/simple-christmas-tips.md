@@ -3,6 +3,10 @@ title: "My simple tips to make your post Christmas reset much easier!"
 date: 2020-12-24T12:34:20+10:00
 draft: false
 Image: /blog/images/blog-christmas-tips.jpg
+og_image: /blog/images/blog-christmas-tips.jpg
+og_width: 500
+og_height: 300
+
 ---
 
 We all like to have a bit of Christmas cheer and we don’t want to be a party pooper on the day. Life is for living after all! 
