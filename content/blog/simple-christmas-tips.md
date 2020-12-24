@@ -19,7 +19,7 @@ You can often find a wide variety of veggies on offer, from the humble carrot st
 
 If you choose the snacks that are higher in protein and good fats you’ll still feel like you’ve had a feast, but you won’t be fighting the high blood sugar surges that come from a high carb snack.
 
-You might want to have a few of my macro balanced snacks on hand when the sweet tooth does hit - you can find my bliss ball and nutty ‘chocolate’ recipes here: [https://www.happygreensprout.com/recipes/](https://www.happygreensprout.com/recipes/) 
+You might want to have a few of my macro balanced snacks on hand when the sweet tooth does hit - you can find my bliss ball and nutty ‘chocolate’ recipes here: [Happy Green Sprout Recipes](https://www.happygreensprout.com/recipes/) 
 
 
 __Take the time to enjoy your food__
