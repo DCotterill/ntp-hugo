@@ -7,6 +7,8 @@ static_page: true
 layout: "instagram"
 
 links:
+    - description: "Choc peanut butter bliss balls"
+      url: "https://www.happygreensprout.com/recipes/chocolate-peanut-butter-bliss-balls/    
     - description: "Simple Christmas Tips"
       url: "https://www.happygreensprout.com/blog/simple-christmas-tips/"
     - description: "Webinar (October 2020) Video"
