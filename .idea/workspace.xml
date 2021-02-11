@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="022b488e-736a-4ef9-8786-d1d7819c4f2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ntp-hugo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ntp-hugo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/recipes/chocolate-peanut-butter-bliss-balls.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/recipes/chocolate-peanut-butter-bliss-balls.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/recipes/images/choc-peanut-butter-bliss-balls.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/content/recipes/images/choc-peanut-butter-bliss-balls.JPG" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +59,8 @@
       <workItem from="1612753946083" duration="598000" />
       <workItem from="1612755852781" duration="441000" />
       <workItem from="1612840683910" duration="5000" />
+      <workItem from="1613000455139" duration="1289000" />
+      <workItem from="1613002201112" duration="23000" />
     </task>
     <servers />
   </component>
