@@ -85,7 +85,9 @@
         <div class="blog-box-background">
             <section class="blog-boxes">
                 {{.Content}}
-                {{ range where .Pages "Section" "blog"}}
+                {{ $pages := .Pages }}
+                {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
+                {{ range (where $pages "Section" "==" "blog") }}
                 <div class="box">
                     <a href="{{.URL}}">
                         <img src="{{.Params.image}}" alt="" class="blog-image">
