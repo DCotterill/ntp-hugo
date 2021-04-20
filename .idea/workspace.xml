@@ -20,9 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="022b488e-736a-4ef9-8786-d1d7819c4f2a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/content/delicious-healthy-snacks-ebook-thanks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/delicious-healthy-snacks-ebook.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/_default/ebook-registration.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/garlic.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/garlic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/recipes/images/minty-chocolate-avocado-mousse.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/content/recipes/images/minty-chocolate-avocado-mousse.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/recipes/minty-chocolate-avocado-mousse.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/recipes/minty-chocolate-avocado-mousse.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +47,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/pdf" />
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content" />
+      <recent name="$PROJECT_DIR$/layouts/_default" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -67,6 +82,11 @@
       <workItem from="1613012495614" duration="16000" />
       <workItem from="1613344661472" duration="559000" />
       <workItem from="1615776966678" duration="607000" />
+      <workItem from="1616813619891" duration="634000" />
+      <workItem from="1617245941763" duration="1089000" />
+      <workItem from="1617247780990" duration="674000" />
+      <workItem from="1617265545207" duration="99000" />
+      <workItem from="1618898277716" duration="1014000" />
     </task>
     <servers />
   </component>

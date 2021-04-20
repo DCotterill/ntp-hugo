@@ -1,16 +1,13 @@
 ---
-title: "Happy Green Sprout - Webinar Registration"
+title: "Delicious Healthy Snacks"
 date: 2020-10-19T12:34:20+10:00
 draft: false
-Image: /img/healthy-food-hacks-preso.jpeg
+Image: /img/delicious-healthy-snacks-ebook.png
 static_page: true
-layout: "webinar-registration"
+layout: "ebook-registration"
 ---
 
-# Healthy Food Hacks & Lifestyle Tips
-
-### Thursday October 29th 2020 - 12.30pm to 1.30pm AEST
-
+# Delicious Healthy Snacks eBook
 
 Do you want to find out more about what is causing your ongoing aches and pains or get to the bottom of what is causing your chronic health issues?
 
