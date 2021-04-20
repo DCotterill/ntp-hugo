@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{{partial "head.html" .}}
+<script>
+    function getUrlParameter(name) {
+        name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+        var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+        var results = regex.exec(location.search);
+        return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+    };
+
+
+
+</script>
+<body onload="javascript:document.getElementById('source').value =
+getUrlParameter('source');">
+
+    <div class="wrapper">
+
+        {{ partial "header.html" .}}
+
+        <section class="top-container">
+            <header class="single-showcase">
+                <h1>{{.Title}}</h1>
+            </header>
+        </section>
+
+
+        <section class="blog-post">
+
+            <img class="blog-post-image" src="{{ .Params.image}}"/>
+
+            <div class="blog-content">{{.Content}}</div>
+
+            <form name="webinar-register-october-2019" method="POST"
+                  data-netlify="true"
+                  action="/webinar-thanks">
+
+              <p>
+                  <label>Name:</label>
+                  <input type="text" name="name" required/>
+              </p>
+              <p>
+                  <label>Email address:</label>
+                  <input type="email" name="email" id="email" required/>
+              </p>
+              <p>
+                   We understand your privacy is important. We may
+                  contact you about future promotions, but don't worry,
+                  you'll be able to easily unsubscribe at any time.
+              </p>
+              <p>
+                <button href="" type="submit" class="btn">Register</button>
+              </p>
+            </form>
+
+            <div class="blog-content">
+            <a name="termsandconditions"></a>
+            <h3>Terms and Conditions to win the Nutritional Therapy
+                giveaway</h3>
+
+                <p>You will need to:</p>
+                <ul>
+                    <li>Like my <a href="https://www.facebook.com/HappyGreenSprout">Happy Green Sprout Facebook
+                        Page</a></li>
+                    <li>Attend the live webinar</li>
+                    <li>Register to win on the Happy Green Sprout website after attending the webinar
+                (details provided during the webinar)</li>
+                    <li>Be based in Australia for insurance reasons</li>
+                    <li>Undertake the Nutritional Therapy offer within 1
+                        month of winning.</li>
+
+                </ul>
+            </div>
+
+        </section>
+
+    {{partial "footer.html" .}}
+
+    </div> <!-- wrapper ends -->
+
+</body>
+</html>
