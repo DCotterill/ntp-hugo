@@ -7,7 +7,9 @@ static_page: true
 layout: "instagram"
 
 links:
-    - description: "Choc peanut butter bliss balls"
+    - description: "Minty Chocolate Avocado Mousse"
+      url: "https://www.happygreensprout.com/recipes/minty-chocolate-avocado-mousse/"    
+    - description: "Choc Peanut Butter Bliss Balls"
       url: "https://www.happygreensprout.com/recipes/chocolate-peanut-butter-bliss-balls/"    
     - description: "Simple Christmas Tips"
       url: "https://www.happygreensprout.com/blog/simple-christmas-tips/"
