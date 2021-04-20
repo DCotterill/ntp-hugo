@@ -20,13 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="022b488e-736a-4ef9-8786-d1d7819c4f2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/content/delicious-healthy-snacks-ebook-thanks.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/delicious-healthy-snacks-ebook.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/_default/ebook-registration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/blog/garlic.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/garlic.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/recipes/images/minty-chocolate-avocado-mousse.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/content/recipes/images/minty-chocolate-avocado-mousse.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/recipes/minty-chocolate-avocado-mousse.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/recipes/minty-chocolate-avocado-mousse.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,12 +80,22 @@
       <workItem from="1617245941763" duration="1089000" />
       <workItem from="1617247780990" duration="674000" />
       <workItem from="1617265545207" duration="99000" />
-      <workItem from="1618898277716" duration="1014000" />
+      <workItem from="1618898277716" duration="1324000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -106,10 +110,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="139" y="123" width="1127" height="545" key="DiffContextDialog" timestamp="1618899669486">
+      <screen x="38" y="23" width="1328" height="745" />
+    </state>
+    <state x="139" y="123" width="1127" height="545" key="DiffContextDialog/38.23.1328.745@38.23.1328.745" timestamp="1618899669486" />
+    <state x="515" y="136" key="VcsDiffUtil.ChangesDialog" timestamp="1618899518785">
+      <screen x="38" y="23" width="1328" height="745" />
+    </state>
+    <state x="515" y="136" key="VcsDiffUtil.ChangesDialog/38.23.1328.745@38.23.1328.745" timestamp="1618899518785" />
     <state x="385" y="-576" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613344744266">
       <screen x="-303" y="-1057" width="1920" height="1057" />
     </state>
     <state x="385" y="-576" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-303.-1057.1920.1057/29.23.1337.745@-303.-1057.1920.1057" timestamp="1612760131166" />
     <state x="385" y="-576" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-303.-1057.1920.1057/34.23.1332.745@-303.-1057.1920.1057" timestamp="1613344744266" />
+    <state x="398" y="92" width="670" height="676" key="search.everywhere.popup" timestamp="1618899667456">
+      <screen x="38" y="23" width="1328" height="745" />
+    </state>
+    <state x="398" y="92" width="670" height="676" key="search.everywhere.popup/38.23.1328.745@38.23.1328.745" timestamp="1618899667456" />
   </component>
 </project>
