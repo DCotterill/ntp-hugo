@@ -14,6 +14,6 @@ to my eBook in the browser as well as have the ability to download
 and save it for future reference. 
 
 I really hope you enjoy the book and learn some new ways to improve 
-your snacking to improve your wellbeing.
+your snacking and your wellbeing.
 
 [Download here](/pdf/Delicious-Healthy-Snacks-Mar21.pdf)
