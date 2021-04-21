@@ -7,9 +7,13 @@ static_page: true
 layout: "static"
 ---
 
-## Thank you for your interest in my ebook.
+## Thank you for your interest in my eBook.
 
-Please use this link for a direct download. I really hope you enjoy the book and find 
-some ways to improve your snacking and your health
+Please click on the link below and you will receive instant access 
+to my eBook in the browser as well as have the ability to download 
+and save it for future reference. 
+
+I really hope you enjoy the book and learn some new ways to improve 
+your snacking to improve your wellbeing.
 
 [Download here](/pdf/Delicious-Healthy-Snacks-Mar21.pdf)

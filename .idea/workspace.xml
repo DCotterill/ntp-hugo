@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="022b488e-736a-4ef9-8786-d1d7819c4f2a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/content/delicious-healthy-snacks-ebook-preview.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/instagram.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/instagram.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/delicious-healthy-snacks-ebook-thanks.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/delicious-healthy-snacks-ebook-thanks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/delicious-healthy-snacks-ebook.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/delicious-healthy-snacks-ebook.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/_default/ebook-registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/ebook-registration.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +54,13 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/static/pdf" />
-      <recent name="$PROJECT_DIR$/static" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content" />
       <recent name="$PROJECT_DIR$/layouts/_default" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/pdf" />
+      <recent name="$PROJECT_DIR$/static" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -83,6 +86,8 @@
       <workItem from="1617265545207" duration="99000" />
       <workItem from="1618898277716" duration="2365000" />
       <workItem from="1618912225068" duration="313000" />
+      <workItem from="1618969689345" duration="132000" />
+      <workItem from="1618976063421" duration="336000" />
     </task>
     <servers />
   </component>
