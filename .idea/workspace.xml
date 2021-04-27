@@ -21,9 +21,17 @@
   <component name="ChangeListManager">
     <list default="true" id="022b488e-736a-4ef9-8786-d1d7819c4f2a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/delicious-healthy-snacks-ebook-preview.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/delicious-healthy-snacks-ebook-preview.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/delicious-healthy-snacks-ebook-thanks.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/delicious-healthy-snacks-ebook-thanks.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/delicious-healthy-snacks-ebook.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/delicious-healthy-snacks-ebook.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/_default/ebook-registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/ebook-registration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/_default/enquiry.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/enquiry.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/_default/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/_default/october-giveaway.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/october-giveaway.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/_default/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/_default/static-comments.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/static-comments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/_default/static.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/static.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/_default/subscribe.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/subscribe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/head.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +94,8 @@
       <workItem from="1618898277716" duration="2365000" />
       <workItem from="1618912225068" duration="313000" />
       <workItem from="1618969689345" duration="132000" />
-      <workItem from="1618976063421" duration="654000" />
+      <workItem from="1618976063421" duration="835000" />
+      <workItem from="1619497038515" duration="213000" />
     </task>
     <servers />
   </component>

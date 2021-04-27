@@ -9,9 +9,6 @@
         var results = regex.exec(location.search);
         return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
     };
-
-
-
 </script>
 <body onload="javascript:document.getElementById('source').value =
 getUrlParameter('source');">
