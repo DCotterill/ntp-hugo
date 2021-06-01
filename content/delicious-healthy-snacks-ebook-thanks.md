@@ -2,7 +2,7 @@
 title: "Thanks!"
 date: 2019-09-05T12:34:20+10:00
 draft: false
-Image: /img/di-kitchen-veggies.png
+Image: /img/chilli-logo.png
 static_page: true
 layout: "static"
 ---
