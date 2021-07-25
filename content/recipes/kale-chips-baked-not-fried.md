@@ -2,8 +2,8 @@
 title: "Kale chips, baked not fried!"
 date: 2021-07-17T12:34:20+10:00
 draft: false
-Image: /recipes/images/kale-chips-bowl.JPG
-og_image: /recipes/images/kale-chips-bowl.JPG
+Image: /recipes/images/kale-chips-bowl.jpg
+og_image: /recipes/images/kale-chips-bowl.jpg
 og_width: 500
 og_height: 300
 ---
