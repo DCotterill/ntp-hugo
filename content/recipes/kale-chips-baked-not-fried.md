@@ -1,9 +1,9 @@
 ---
 title: "Kale chips, baked not fried!"
 date: 2021-07-17T12:34:20+10:00
-draft: true
-Image: /recipes/images/clean-eating-nutty-chocolate.JPG
-og_image: /recipes/images/clean-eating-nutty-chocolate.JPG
+draft: false
+Image: /recipes/images/kale-chips-bowl.JPG
+og_image: /recipes/images/kale-chips-bowl.JPG
 og_width: 500
 og_height: 300
 ---

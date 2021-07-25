@@ -21,17 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="022b488e-736a-4ef9-8786-d1d7819c4f2a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/_default/ebook-registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/ebook-registration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/_default/enquiry.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/enquiry.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/_default/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/_default/october-giveaway.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/october-giveaway.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/_default/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/_default/static-comments.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/static-comments.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/_default/static.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/static.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/_default/subscribe.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/subscribe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/recipes/kale-chips-baked-not-fried.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/recipes/kale-chips-baked-not-fried.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +40,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/content" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -96,6 +87,13 @@
       <workItem from="1618969689345" duration="132000" />
       <workItem from="1618976063421" duration="835000" />
       <workItem from="1619497038515" duration="213000" />
+      <workItem from="1622779327526" duration="615000" />
+      <workItem from="1622978371704" duration="599000" />
+      <workItem from="1623144159863" duration="318000" />
+      <workItem from="1623295690519" duration="596000" />
+      <workItem from="1627018159590" duration="609000" />
+      <workItem from="1627100684445" duration="2000" />
+      <workItem from="1627183920707" duration="226000" />
     </task>
     <servers />
   </component>
@@ -123,24 +121,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="139" y="123" width="1127" height="545" key="DiffContextDialog" timestamp="1618899669486">
-      <screen x="38" y="23" width="1328" height="745" />
-    </state>
-    <state x="139" y="123" width="1127" height="545" key="DiffContextDialog/38.23.1328.745@38.23.1328.745" timestamp="1618899669486" />
-    <state x="515" y="136" key="VcsDiffUtil.ChangesDialog" timestamp="1618899518785">
-      <screen x="38" y="23" width="1328" height="745" />
-    </state>
-    <state x="515" y="136" key="VcsDiffUtil.ChangesDialog/38.23.1328.745@38.23.1328.745" timestamp="1618899518785" />
-    <state x="385" y="-576" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613344744266">
-      <screen x="-303" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="385" y="-576" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-303.-1057.1920.1057/29.23.1337.745@-303.-1057.1920.1057" timestamp="1612760131166" />
-    <state x="385" y="-576" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-303.-1057.1920.1057/34.23.1332.745@-303.-1057.1920.1057" timestamp="1613344744266" />
-    <state x="398" y="92" width="670" height="676" key="search.everywhere.popup" timestamp="1618899667456">
-      <screen x="38" y="23" width="1328" height="745" />
-    </state>
-    <state x="398" y="92" width="670" height="676" key="search.everywhere.popup/38.23.1328.745@38.23.1328.745" timestamp="1618899667456" />
   </component>
 </project>
