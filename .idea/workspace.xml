@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="022b488e-736a-4ef9-8786-d1d7819c4f2a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/recipes/kale-chips-baked-not-fried.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/recipes/kale-chips-baked-not-fried.md" afterDir="false" />
-    </list>
+    <list default="true" id="022b488e-736a-4ef9-8786-d1d7819c4f2a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +90,7 @@
       <workItem from="1623295690519" duration="596000" />
       <workItem from="1627018159590" duration="609000" />
       <workItem from="1627100684445" duration="2000" />
-      <workItem from="1627183920707" duration="226000" />
+      <workItem from="1627183920707" duration="663000" />
     </task>
     <servers />
   </component>
