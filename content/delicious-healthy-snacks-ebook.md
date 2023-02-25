@@ -3,6 +3,7 @@ title: "Delicious Healthy Snacks"
 date: 2020-10-19T12:34:20+10:00
 draft: false
 Image: /img/delicious-healthy-snacks-ebook.png
+og_image: /img/delicious-healthy-snacks-ebook.png
 static_page: true
 layout: "ebook-registration"
 ---
