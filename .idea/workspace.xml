@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="022b488e-736a-4ef9-8786-d1d7819c4f2a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/instagram.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/instagram.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/_default/ebook-registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/ebook-registration.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +48,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -97,7 +100,20 @@
       <workItem from="1627018159590" duration="609000" />
       <workItem from="1627100684445" duration="2000" />
       <workItem from="1627183920707" duration="2156000" />
-      <workItem from="1627190475699" duration="62000" />
+      <workItem from="1627190475699" duration="692000" />
+      <workItem from="1627714680406" duration="31000" />
+      <workItem from="1658734381332" duration="646000" />
+      <workItem from="1658739326711" duration="1521000" />
+      <workItem from="1658741517015" duration="736000" />
+      <workItem from="1658743561312" duration="623000" />
+      <workItem from="1658874774823" duration="616000" />
+      <workItem from="1659604493978" duration="33000" />
+      <workItem from="1660074925723" duration="639000" />
+      <workItem from="1662015418771" duration="599000" />
+      <workItem from="1662339529491" duration="1000" />
+      <workItem from="1669779249230" duration="660000" />
+      <workItem from="1669864851026" duration="173000" />
+      <workItem from="1677285383541" duration="325000" />
     </task>
     <servers />
   </component>
