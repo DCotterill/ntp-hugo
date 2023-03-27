@@ -93,7 +93,7 @@
                 {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
                 {{ range (where $pages "Section" "==" "blog") }}
                 <div class="box">
-                    <a href="{{.URL}}">
+                    <a href="{{.Permalink}}">
                         <img src="{{.Params.image}}" alt="" class="blog-image">
                         <h3 class="blog-title">{{.Title}}</h3>
                     </a>

@@ -1,9 +1,9 @@
 ---
-title: "They won’t even know it’s...gluten free Banana Bread"
+title: "They won’t even know it’s... gluten free Banana Bread"
 date: 2023-03-23T12:34:20+10:00
-draft: true
-Image: /recipes/images/granola-with-yoghurt-and-berries.JPG
-og_image: /recipes/images/granola-with-yoghurt-and-berries.JPG
+draft: false
+Image: /recipes/images/GF-Banana-Bread-1.JPG
+og_image: /recipes/images/GF-Banana-Bread-1.JPG
 ---
 
 
@@ -45,4 +45,4 @@ Line a bread tin with baking paper or grease a silicone bread mold. Preheat the 
  
 #fillingbreakfast #healthytreats #kidstreats #glutenfree #taketowork
 
-![](/recipes/images/granola-jar.JPG)
+![](/recipes/images/GF-Banana-Bread-in-tin.JPG)
