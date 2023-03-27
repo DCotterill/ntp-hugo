@@ -20,16 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="022b488e-736a-4ef9-8786-d1d7819c4f2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.hugo_build.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/recipes/images/GF-Banana-Bread-1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/recipes/images/GF-Banana-Bread-in-tin.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/recipes/They-won’t-even-know-it’s...gluten-free-Banana-Bread.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/recipes/They-won’t-even-know-it’s...gluten-free-Banana-Bread.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/recipes/images/GF Banana Bread-1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/recipes/images/GF Banana Bread-in-tin.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/_default/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/_default/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/recipes/They-wont-even-know-its-gluten-free-Banana-Bread.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/recipes/they-wont-even-know-its-gluten-free-banana-bread.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +123,7 @@
       <workItem from="1677285383541" duration="927000" />
       <workItem from="1677290057526" duration="92000" />
       <workItem from="1679626531438" duration="908000" />
-      <workItem from="1679884378680" duration="429000" />
+      <workItem from="1679884378680" duration="740000" />
     </task>
     <servers />
   </component>
