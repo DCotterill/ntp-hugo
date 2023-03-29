@@ -8,7 +8,9 @@ layout: "instagram"
 
 links:
     - description: "Delicious Healthy Snacks eBook"
-      url: "https://www.happygreensprout.com/delicious-healthy-snacks-ebook/"    
+      url: "https://www.happygreensprout.com/delicious-healthy-snacks-ebook/"
+      - description: "Unbelievably Gluten Free Banana Bread"
+      url: "https://www.happygreensprout.com/recipes/they-wont-even-know-its-gluten-free-banana-bread/"     
     - description: "Minty Chocolate Avocado Mousse"
       url: "https://www.happygreensprout.com/recipes/minty-chocolate-avocado-mousse/"    
     - description: "Choc Peanut Butter Bliss Balls"
