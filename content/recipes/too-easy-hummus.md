@@ -1,7 +1,7 @@
 ---
 title: "Too easy hummus"
 date: 2023-04-05T12:34:20+10:00
-draft: true
+draft: false 
 Image: /recipes/images/beetroot-and-jalapeno-hummus.JPG
 og_image: /recipes/images/beetroot-and-jalapeno-hummus.JPG
 ---
