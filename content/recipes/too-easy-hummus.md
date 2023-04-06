@@ -1,7 +1,7 @@
 ---
 title: "Too easy hummus"
-date: 2023-04-05T12:34:20+10:00
-draft: false
+date: 2020-01-04T12:34:20+10:00
+draft: true
 Image: /recipes/images/beetroot-and-jalapeno-hummus.JPG
 og_image: /recipes/images/beetroot-and-jalapeno-hummus.JPG
 ---
@@ -20,7 +20,7 @@ Outside of entertaining it's a great snack for the kids...my daughter won't eat 
 
 **Nutrient Profile**
 
-This recipe is a great source of Calcium, Manganese, Copper and a variety of other trace minerals. You'll also find Vitamins E, K, C and a wide variety of B vitamins as well as a healthy dose of good fats and plenty of fibre.
+Chickpeas are a good source of phytoestrogen, a plant compound capable of binding to oestrogen receptors. By doing so, it can help to reduce some of the symptoms of perimenopause, as oestrogen production goes down. This recipe is also a great source of Calcium, Zinc, Manganese, Copper and a variety of other trace minerals. You'll also find Vitamins E, K, C and a wide variety of B vitamins as well as a healthy dose of good fats and plenty of fibre.
 
 Makes: 2 generous bowls
 
@@ -45,11 +45,11 @@ Beetroot version: Add 1/2 to 1 raw beet to the food processor with the other ing
 
 Other example toppings:
 
-Pumpkin/pepita seeds: Add 1 -2 tsp of toasted Pumpkin Pepitas to taste and a drizzle of olive oil (toast quickly in a frying pan, or roast quickly in the oven).
+* Pumpkin/pepita seeds: Add 1 -2 tsp of toasted Pumpkin Pepitas to taste and a drizzle of olive oil (toast quickly in a frying pan, or roast quickly in the oven).
 
-Jalapenos: Add chopped pickled jalapenos and a drizzle of olive oil to taste.
+* Jalapenos: Add chopped pickled jalapenos and a drizzle of olive oil to taste.
 
-Olives: Add chopped olives, either green or kalamata and drizzle with olive oil to taste. 
+* Olives: Add chopped olives, either green or kalamata and drizzle with olive oil to taste. 
 
  
 #healthyentertaining #healthysnacks #kidsfood #glutenfree #dairyfree #vegetarian #vegan #picnic
