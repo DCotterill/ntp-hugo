@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="022b488e-736a-4ef9-8786-d1d7819c4f2a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/content/instagram.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/instagram.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/happy-green-sprout-square copy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +138,8 @@
       <workItem from="1681714835042" duration="48000" />
       <workItem from="1685319275900" duration="1514000" />
       <workItem from="1685328578310" duration="598000" />
-      <workItem from="1685422271036" duration="959000" />
+      <workItem from="1685422271036" duration="1559000" />
+      <workItem from="1685608649135" duration="34000" />
     </task>
     <servers />
   </component>
