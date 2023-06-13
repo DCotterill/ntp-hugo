@@ -1,0 +1,20 @@
+=IF(
+    K2="Development",
+    LOWER(
+        CONCAT(
+            CONCAT(
+                    CONCAT(
+                        "https://www.halixia.com/ma“,
+                                        SUBSTITUTE(
+                                                SUBSTITUTE(
+                                                        SUBSTITUTE(
+                                                                SUBSTITUTE(D2," “,”-“)
+                                                                ,””,””)
+                                                        ,"?","")
+                                                ,"&","and")
+                                        ,”-“)
+                ,E2
+                    ),'Upload Prep'!Q2
+            )
+    )
+)
