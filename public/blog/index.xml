@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on </title>
@@ -6,10 +6,53 @@
     <description>Recent content in Blogs on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Oct 2019 12:34:20 +1000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Dec 2020 12:34:20 +1000</lastBuildDate><atom:link href="https://laughing-liskov-db83d0.netlify.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My simple tips to make your post Christmas reset much easier!</title>
+      <link>https://laughing-liskov-db83d0.netlify.com/blog/simple-christmas-tips/</link>
+      <pubDate>Thu, 24 Dec 2020 12:34:20 +1000</pubDate>
+      
+      <guid>https://laughing-liskov-db83d0.netlify.com/blog/simple-christmas-tips/</guid>
+      <description>We all like to have a bit of Christmas cheer and we don’t want to be a party pooper on the day. Life is for living after all!
+But there are a few easy things that we can do that can help us feel better and minimise the impact of our indulgences during the holidays, so we don’t get to January and wonder what went horribly wrong.</description>
+    </item>
     
-	<atom:link href="https://laughing-liskov-db83d0.netlify.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Launching my new business - Happy Green Sprout</title>
+      <link>https://laughing-liskov-db83d0.netlify.com/blog/launching-happy-green-sprout/</link>
+      <pubDate>Tue, 14 Jul 2020 12:34:20 +1000</pubDate>
+      
+      <guid>https://laughing-liskov-db83d0.netlify.com/blog/launching-happy-green-sprout/</guid>
+      <description>I&amp;rsquo;m excited to announce the launch of my new nutrition business Happy Green Sprout. I’m passionate about helping people to understand the way that food and lifestyle can change how they feel, so they can live a better life. You don’t have to change everything in your life to feel better, small incremental changes can make a big difference to your health.</description>
+    </item>
     
+    <item>
+      <title>Spice up your life! - how to increase nutrient density of every meal with herbs and spices</title>
+      <link>https://laughing-liskov-db83d0.netlify.com/blog/spice-up-your-life/</link>
+      <pubDate>Tue, 02 Jun 2020 12:34:20 +1000</pubDate>
+      
+      <guid>https://laughing-liskov-db83d0.netlify.com/blog/spice-up-your-life/</guid>
+      <description>Nutrient density refers to the concentration of micronutrients - otherwise known as vitamins and minerals as well as phytochemicals, essential fatty acids and essential amino acids - per calorie of food. The typical Western diet is generally high in energy but nutrient poor.</description>
+    </item>
+    
+    <item>
+      <title>A quick and easy hack to boost the nutrient firepower of garlic</title>
+      <link>https://laughing-liskov-db83d0.netlify.com/blog/garlic/</link>
+      <pubDate>Sun, 05 Apr 2020 12:34:20 +1000</pubDate>
+      
+      <guid>https://laughing-liskov-db83d0.netlify.com/blog/garlic/</guid>
+      <description>Wondering how to improve the nutritional value of food without any extra effort? All this hack takes is 10 minutes forethought.TLDR: The short answer is that you should always chop your garlic 10 minutes before you are going to fry/bake or sauté your garlic.</description>
+    </item>
+    
+    <item>
+      <title>Why a low-fat or poor fat diet can be dentrimental to our health</title>
+      <link>https://laughing-liskov-db83d0.netlify.com/blog/new-fats/</link>
+      <pubDate>Sat, 21 Dec 2019 12:34:20 +1000</pubDate>
+      
+      <guid>https://laughing-liskov-db83d0.netlify.com/blog/new-fats/</guid>
+      <description>The majority of people today eat a diet low in fat or high in rancid or hydrogenated fats. On a cellular level, why is a low-fat or “poor fat” diet detrimental to health?
+At a cellular level, lipids are the building blocks for both cellular membranes and hormones.</description>
+    </item>
     
     <item>
       <title>How stress and chronically elevated cortisol disrupts the balance of hormones in your body</title>
@@ -31,22 +74,12 @@ Cortisol is known as the fight or flight hormone, and is released by the adrenal
     </item>
     
     <item>
-      <title>My why</title>
-      <link>https://laughing-liskov-db83d0.netlify.com/blog/my-why/</link>
+      <title>My story</title>
+      <link>https://laughing-liskov-db83d0.netlify.com/blog/my-story/</link>
       <pubDate>Mon, 19 Aug 2019 12:34:20 +1000</pubDate>
       
-      <guid>https://laughing-liskov-db83d0.netlify.com/blog/my-why/</guid>
+      <guid>https://laughing-liskov-db83d0.netlify.com/blog/my-story/</guid>
       <description>Hi, I’m Diane Cotterill and I live in Sydney on the Northern Beaches with my husband and two kids. I’m passionate about improving health through nutrition, eating whole foods and a variety of herbs and spices to maximize health and longevity, whilst having fun and enjoying life along the way.</description>
-    </item>
-    
-    <item>
-      <title>Why a low-fat or poor fat diet can be dentrimental to our health</title>
-      <link>https://laughing-liskov-db83d0.netlify.com/blog/new-fats/</link>
-      <pubDate>Fri, 21 Jun 2019 12:34:20 +1000</pubDate>
-      
-      <guid>https://laughing-liskov-db83d0.netlify.com/blog/new-fats/</guid>
-      <description>The majority of people today eat a diet low in fat or high in rancid or hydrogenated fats. On a cellular level, why is a low-fat or “poor fat” diet detrimental to health?
-At a cellular level, lipids are the building blocks for both cellular membranes and hormones.</description>
     </item>
     
   </channel>

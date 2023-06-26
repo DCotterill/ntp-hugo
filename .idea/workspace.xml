@@ -20,12 +20,136 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="022b488e-736a-4ef9-8786-d1d7819c4f2a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/content/catchups-thanks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/catchups.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/shortcodes/button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/shortcodes/coffee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/blog/garlic/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/blog/images/blog-Spices-Chili-garlic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/blog/images/blog-basil-tomato-spoon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/blog/images/blog-christmas-tips-square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/blog/images/blog-christmas-tips.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/blog/images/blog-garlic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/blog/images/pistachios-nuts-heart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/blog/launching-happy-green-sprout/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/blog/my-story/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/blog/simple-christmas-tips/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/blog/spice-up-your-life/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/catchups/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/delicious-healthy-snacks-ebook-preview/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/delicious-healthy-snacks-ebook-thanks/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/delicious-healthy-snacks-ebook/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/enquiry-thanks/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/enquiry/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Di-400-circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Di-400.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Food-crate-424w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Food-crate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/IMG_8455.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/avocado-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/capsicum-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/chilli-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/climbing-leaves-1600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/climbing-leaves-700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/climbing-leaves-greyer-1600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/climbing-leaves-greyer-700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cook-600-triangle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cook-600-triangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/delicious-healthy-snacks-ebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/di-kitchen-veggies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/food-bench-draft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/happy-green-sprout-square copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/happy-green-sprout-square transparent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/happy-green-sprout-square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/healthy-food-hacks-preso.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/hgs-screenshot-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/hgs-screenshot-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/hgs-screenshot-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/hgs-screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/tick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/webinar-october-2019.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/webinar-october-2020-instagram.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/webinar-october-2020-instagram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/webinar-october-editable-2020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/wellness-word.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/wellness-wordcloud-draft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/wordcloud-hgs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/instagram/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/october-2020-webinar-video/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/october-giveaway-thanks/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/october-giveaway/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pdf/Delicious-Healthy-Snacks-Mar21.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/chocolate-peanut-butter-bliss-balls/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/chocolate-peppermint-bliss-balls/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/chocolatey-grainfree-glutenfree-granola/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/clean-eating-nutty-chocolate/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/gluten-free-meatballs-and-burger-recipe/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/images/GF-Banana-Bread-1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/images/GF-Banana-Bread-in-tin.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/images/beetroot-and-jalapeno-hummus.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/images/choc-mint-bliss-balls.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/images/choc-peanut-butter-bliss-balls.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/images/clean-eating-nutty-chocolate-old.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/images/clean-eating-nutty-chocolate.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/images/gf-meatballs-image.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/images/granola-jar.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/images/granola-with-yoghurt-and-berries.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/images/kale-chips-bowl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/images/kale-cooking.HEIC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/images/minty-chocolate-avocado-mousse.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/images/walnut-pesto-image.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/kale-chips-baked-not-fried/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/minty-chocolate-avocado-mousse/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/page/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/they-wont-even-know-its-gluten-free-banana-bread/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/too-easy-hummus/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/recipes/walnut-basil-pesto/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/service.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/subscribe-thanks/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/subscribe/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/webinar-registration-october-2020/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/webinar-thanks/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blog/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blog/mineral-water/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/mineral-water/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blog/new-fats/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/new-fats/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blog/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blog/why-stress-throws-your-hormones-out/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/why-stress-throws-your-hormones-out/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/Di-600.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/Di-600.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/cook-600.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/cook-600.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/vegetables-1212845_1920.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/vegetables-1212845_1920.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/recipes/chicken-bacon-and-roasted-veg-soup/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/recipes/chicken-bacon-and-roasted-veg-soup/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/recipes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/recipes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/recipes/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/recipes/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/recipes/lemon-cheesecake-bliss-balls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/recipes/lemon-cheesecake-bliss-balls/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/recipes/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/recipes/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/services/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/services/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,11 +173,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/layouts/shortcodes" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -66,10 +191,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/layouts/shortcodes" />
       <recent name="$PROJECT_DIR$/content" />
       <recent name="$PROJECT_DIR$/layouts/_default" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/layouts" />
+      <recent name="$PROJECT_DIR$/themes/ga-hugo-theme/layouts" />
       <recent name="$PROJECT_DIR$/static/pdf" />
       <recent name="$PROJECT_DIR$/static" />
     </key>
@@ -146,7 +274,15 @@
       <workItem from="1686632234640" duration="889000" />
       <workItem from="1686638687222" duration="1338000" />
       <workItem from="1686652120450" duration="594000" />
-      <workItem from="1686698561240" duration="447000" />
+      <workItem from="1686698561240" duration="1227000" />
+      <workItem from="1686704500245" duration="597000" />
+      <workItem from="1686718759487" duration="599000" />
+      <workItem from="1687161327731" duration="603000" />
+      <workItem from="1687220583443" duration="597000" />
+      <workItem from="1687752710604" duration="1787000" />
+      <workItem from="1687754521560" duration="1661000" />
+      <workItem from="1687761182327" duration="1690000" />
+      <workItem from="1687763585343" duration="959000" />
     </task>
     <servers />
   </component>
