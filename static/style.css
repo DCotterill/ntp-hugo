@@ -67,6 +67,13 @@ ul {
     list-style: square;
 }
 
+h2#join-the-facebook-group {
+    margin-block-start: 2.0em;
+}
+
+h2#download-my-free-ebook {
+    margin-block-start: 2.0em;
+}
 
 strong {
     font-size: 1.2rem;
