@@ -20,8 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="022b488e-736a-4ef9-8786-d1d7819c4f2a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/static/img/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/leaf-icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/head.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +172,15 @@
       <workItem from="1687761182327" duration="1690000" />
       <workItem from="1687763585343" duration="959000" />
       <workItem from="1687772675944" duration="633000" />
-      <workItem from="1687821449973" duration="608000" />
+      <workItem from="1687821449973" duration="1209000" />
+      <workItem from="1687839943380" duration="782000" />
+      <workItem from="1687924203435" duration="1223000" />
+      <workItem from="1687932244053" duration="598000" />
+      <workItem from="1688030471886" duration="1351000" />
+      <workItem from="1688087292437" duration="598000" />
+      <workItem from="1688437292806" duration="806000" />
+      <workItem from="1688610097683" duration="596000" />
+      <workItem from="1688635240837" duration="598000" />
     </task>
     <servers />
   </component>
