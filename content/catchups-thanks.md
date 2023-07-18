@@ -1,5 +1,5 @@
 ---
-title: "Thanks!"
+title: 
 date: 2019-09-05T12:34:20+10:00
 draft: false
 Image: /img/Di-400.jpeg
@@ -35,34 +35,4 @@ I’ve also created a Facebook group to help with the organisation of local soci
 Would you like to learn more about healthy snacks? Why not download my free healthy snack book.
 
 {{<button link="https://www.happygreensprout.com/delicious-healthy-snacks-ebook-preview/" text="Download">}}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br/><br/><br/>
-<br/><br/><br/>
-<br/><br/><br/>
-<br/><br/><br/>
-<br/><br/><br/>
-<br/><br/><br/>
-<br/><br/><br/>
-<br/><br/><br/>
-
-
-
 
