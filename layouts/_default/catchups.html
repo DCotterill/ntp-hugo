@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+{{ partial "head.html" .}}
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5N9C6HS"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="wrapper">
+
+        {{ partial "header.html" .}}
+
+        <section class="top-container">
+            <header class="single-showcase">
+                <h1>{{.Title}}</h1>
+            </header>
+        </section>
+
+        <section class="enquiry-content">
+            {{.Content}}
+        </section>
+
+    {{partial "footer.html" .}}
+
+    </div> <!-- wrapper ends -->
+
+
+</body>
+</html>
