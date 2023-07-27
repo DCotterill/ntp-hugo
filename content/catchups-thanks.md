@@ -23,8 +23,6 @@ It would also be really helpful if you could complete it, it will only take ~4-5
 
 ## Join the Facebook Group
 
-I’ll be creating more content around it, including handouts, eBooks and online/ in-person workshops/courses. 
-
 I’ve also created a Facebook group to help with the organisation of local social catch ups here on the lower North Shore and Northern Beaches of Sydney, so that we can chat about and share our experiences of both perimenopause and menopause and support each other along the way.
 
 {{<button link="https://www.facebook.com/groups/3418294481761727/" text="Join the group">}}
