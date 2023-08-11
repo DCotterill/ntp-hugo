@@ -13,7 +13,7 @@
 <body onload="javascript:document.getElementById('source').value =
 getUrlParameter('source');">
 
-    <div class="wrapper">
+    <p class="wrapper">
 
         {{ partial "header.html" .}}
 
@@ -24,7 +24,7 @@ getUrlParameter('source');">
         </section>
 
         <section class="enquiry-content">
-
+            <p>{{.Content}}</p>
             <form name="group-menopause-register-interest" method="POST" data-netlify="true"
                   action="/enquiry-thanks">
 
