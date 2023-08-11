@@ -7,7 +7,7 @@ static_page: true
 layout: "register-interest"
 ---
 
-#Menopause Group Coaching Program
+# Menopause Group Coaching Program
 
 Our group coaching program is based on the latest science and research and covers the full range of 
 nutritional and lifestyle changes you can make to help your ongoing perimenopause symptoms.
