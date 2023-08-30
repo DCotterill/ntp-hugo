@@ -7,7 +7,7 @@ layout: "catchups"
 ---
 # Menopause coffee catchup 
 
-#### Date: Monday 21st August, 2:00pm 
+#### Date: Monday 11th September, 2:00pm 
 #### Location: Frenchy's Cafe - 3 Read Pl, Mosman - Middle Head
 
 #### Please fill in the details below to register.
