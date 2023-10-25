@@ -7,7 +7,7 @@ layout: "catchups"
 ---
 # Menopause coffee catchup 
 
-#### Date: Sunday 8th October, 11:30am 
+#### Date: Sunday 5th November, 11:30am 
 #### Location: Manly Wharf Bar
 
 #### Please fill in the details below to register.
