@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="022b488e-736a-4ef9-8786-d1d7819c4f2a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/catchup-register-manly.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/catchup-register-manly.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/catchups-thanks.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/catchups-thanks.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +231,10 @@
       <workItem from="1693985878730" duration="638000" />
       <workItem from="1694179396002" duration="598000" />
       <workItem from="1694494608154" duration="608000" />
-      <workItem from="1698191908687" duration="165000" />
+      <workItem from="1698191908687" duration="966000" />
+      <workItem from="1698217180887" duration="22000" />
+      <workItem from="1698976743954" duration="629000" />
+      <workItem from="1699072539219" duration="315000" />
     </task>
     <servers />
   </component>
