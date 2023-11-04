@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="022b488e-736a-4ef9-8786-d1d7819c4f2a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/catchups-thanks.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/catchups-thanks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/_default/enquiry.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/enquiry.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,7 +233,7 @@
       <workItem from="1698191908687" duration="966000" />
       <workItem from="1698217180887" duration="22000" />
       <workItem from="1698976743954" duration="629000" />
-      <workItem from="1699072539219" duration="550000" />
+      <workItem from="1699072539219" duration="999000" />
     </task>
     <servers />
   </component>
