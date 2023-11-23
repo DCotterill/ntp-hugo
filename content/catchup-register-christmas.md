@@ -8,7 +8,7 @@ layout: "catchups"
 # Menopause Christmas Drinks Catchup
 
 #### Date: Sunday 3rd December, 2pm - 4pm 
-#### Location: Manly Dam - exact location to be advised when a suitable space is booked
+#### Location: Manly Dam Reserve, off King Street, Manly Vale
 
 #### Please fill in the details below to register.
 {{< catchup-register-mosman >}} 
