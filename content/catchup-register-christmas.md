@@ -5,10 +5,10 @@ draft: false
 static_page: true
 layout: "catchups"
 ---
-# Menopause coffee catchup 
+# Menopause Christmas Drinks Catchup
 
-#### Date: Monday 11th September, 2:00pm 
-#### Location: Frenchy's Cafe - 3 Read Pl, Mosman - Middle Head
+#### Date: Sunday 3rd December, 2pm - 4pm 
+#### Location: Manly Dam - exact location to be advised when a suitable space is booked
 
 #### Please fill in the details below to register.
 {{< catchup-register-mosman >}} 
