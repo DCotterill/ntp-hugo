@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="022b488e-736a-4ef9-8786-d1d7819c4f2a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/catchup-register-christmas.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/catchup-register-christmas.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -236,7 +237,9 @@
       <workItem from="1699072539219" duration="2052000" />
       <workItem from="1699586747625" duration="608000" />
       <workItem from="1699828033841" duration="21000" />
-      <workItem from="1700708525886" duration="1197000" />
+      <workItem from="1700708525886" duration="1883000" />
+      <workItem from="1701045388800" duration="3000" />
+      <workItem from="1701305006713" duration="13000" />
     </task>
     <servers />
   </component>
