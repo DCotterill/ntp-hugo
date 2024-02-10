@@ -4,6 +4,7 @@ summarylength = 40
 disqusShortname = "happy-green-sprout"
 googleAnalytics = "UA-168575542-1"
 relativeURLs = true
+paginate = 100
 
 
 
