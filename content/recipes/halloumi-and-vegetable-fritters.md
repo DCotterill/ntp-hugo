@@ -10,7 +10,6 @@ I learnt about this recipe from my friend Josh when we visited our friends and f
 Eggs are rich in essential nutrients that contribute to overall health and well-being. Here are some key nutrients you can find in eggs:
 
 * Protein: Eggs are an excellent source of high-quality protein. The protein in eggs contains all the essential amino acids that your body needs to build and repair tissues.
-* Vitamins: Eggs are a good source of several vitamins, including:
 * Vitamin B12: Essential for nerve function and the formation of red blood cells.
 * Vitamin D: Important for bone health, immune function, and various metabolic processes.
 * Vitamin A: Beneficial for eye health, skin health, and immune function.
