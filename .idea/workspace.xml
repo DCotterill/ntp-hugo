@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="022b488e-736a-4ef9-8786-d1d7819c4f2a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/recipes/halloumi and vegetable fritters.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/recipes/halloumi-and-vegetable-fritters.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +245,9 @@
       <workItem from="1706588047320" duration="1233000" />
       <workItem from="1706674864683" duration="318000" />
       <workItem from="1706689976134" duration="46000" />
-      <workItem from="1707526236423" duration="77000" />
+      <workItem from="1707526236423" duration="676000" />
+      <workItem from="1707799642619" duration="17000" />
+      <workItem from="1708395343816" duration="1086000" />
     </task>
     <servers />
   </component>
