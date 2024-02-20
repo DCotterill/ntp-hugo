@@ -8,15 +8,16 @@ Image: /recipes/images/halloumi-fritters.JPG
 I learnt about this recipe from my friend Josh when we visited our friends and family in the UK and he whipped up a batch to help cure our hangovers in the morning (Thanks Josh!). Finally I'd found something for Darren to eat for breakfast that contains eggs. Darren is a very hard person to cook brunch for. Can you believe that he won’t eat omelette, poached eggs, boiled eggs, fried eggs or even french toast. What’s a girl to do? He doesn’t even really like bacon or sausages that much, so when I’m trying to encourage him to eat a protein focused breakfast it makes it tough. 
 
 Eggs are rich in essential nutrients that contribute to overall health and well-being. Here are some key nutrients you can find in eggs:
+
 * Protein: Eggs are an excellent source of high-quality protein. The protein in eggs contains all the essential amino acids that your body needs to build and repair tissues.
 * Vitamins: Eggs are a good source of several vitamins, including:
- * Vitamin B12: Essential for nerve function and the formation of red blood cells.
- * Vitamin D: Important for bone health, immune function, and various metabolic processes.
- * Vitamin A: Beneficial for eye health, skin health, and immune function.
- * Minerals including Selenium, Phosphorus, Iron
- * Choline: Eggs are one of the best dietary sources of choline, a nutrient that plays a vital role in brain health and development, as well as liver function.
- * Lutein and Zeaxanthin are antioxidants that are beneficial for eye health, particularly in reducing the risk of age-related macular degeneration.
- * Omega-3 Fatty Acids: Eggs enriched with omega-3 fatty acids can contribute to heart health by promoting healthy cholesterol levels and reducing inflammation.
+* Vitamin B12: Essential for nerve function and the formation of red blood cells.
+* Vitamin D: Important for bone health, immune function, and various metabolic processes.
+* Vitamin A: Beneficial for eye health, skin health, and immune function.
+* Minerals including Selenium, Phosphorus, Iron
+* Choline: Eggs are one of the best dietary sources of choline, a nutrient that plays a vital role in brain health and development, as well as liver function.
+* Lutein and Zeaxanthin are antioxidants that are beneficial for eye health, particularly in reducing the risk of age-related macular degeneration.
+* Omega-3 Fatty Acids: Eggs enriched with omega-3 fatty acids can contribute to heart health by promoting healthy cholesterol levels and reducing inflammation.
 
 It's worth noting that the nutrient content of an egg can vary based on factors such as the hen's diet and the way the egg is cooked. A large boiled egg contains approximately:
 
