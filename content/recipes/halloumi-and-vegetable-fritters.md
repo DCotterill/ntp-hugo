@@ -3,6 +3,7 @@ title: "Halloumi and Vegetable fritters"
 date: 2024-02-19T12:34:20+10:00
 draft: false
 Image: /recipes/images/halloumi-fritters.JPG
+og_image: /recipes/images/halloumi-fritters.JPG
 ---
 
 I learnt about this recipe from my friend Josh when we visited our friends and family in the UK and he whipped up a batch to help cure our hangovers in the morning (Thanks Josh!). Finally I'd found something for Darren to eat for breakfast that contains eggs. Darren is a very hard person to cook brunch for. Can you believe that he won’t eat omelette, poached eggs, boiled eggs, fried eggs or even french toast. What’s a girl to do? He doesn’t even really like bacon or sausages that much, so when I’m trying to encourage him to eat a protein focused breakfast it makes it tough. 
