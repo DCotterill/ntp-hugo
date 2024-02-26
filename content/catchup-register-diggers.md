@@ -8,7 +8,7 @@ layout: "catchups"
 # Menopause coffee catchup 
 
 #### Date: Sunday 3rd March, 11:00am - 12:00pm 
-#### Location: Harbord Diggers
+#### Location: Harbord Diggers, Freshwater
 
 #### Please fill in the details below to register.
 {{< catchup-register-mosman >}} 
