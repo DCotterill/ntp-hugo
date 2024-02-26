@@ -7,9 +7,9 @@ layout: "catchups"
 ---
 # Menopause coffee catchup 
 
-#### Date: Saturday 16rd March, 11:00am - 12:00pm 
-#### Location: Manly Wharf Hotel
+#### Date: Sunday 3rd March, 11:00am - 12:00pm 
+#### Location: Harbord Diggers
 
 #### Please fill in the details below to register.
-{{< catchup-register-manly >}} 
+{{< catchup-register-mosman >}} 
 
