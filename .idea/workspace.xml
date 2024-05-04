@@ -22,6 +22,7 @@
     <list default="true" id="022b488e-736a-4ef9-8786-d1d7819c4f2a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/catchup-register-diggers.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/catchup-register-diggers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/shortcodes/catchup-register-mosman.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/shortcodes/catchup-register-mosman.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -259,7 +260,9 @@
       <workItem from="1709503091905" duration="37000" />
       <workItem from="1712027709072" duration="1384000" />
       <workItem from="1712050545609" duration="38000" />
-      <workItem from="1714540465007" duration="26000" />
+      <workItem from="1714540465007" duration="1117000" />
+      <workItem from="1714607134083" duration="624000" />
+      <workItem from="1714813461567" duration="147000" />
     </task>
     <servers />
   </component>

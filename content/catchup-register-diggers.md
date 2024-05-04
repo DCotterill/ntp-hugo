@@ -7,6 +7,11 @@ layout: "catchups"
 ---
 # Menopause coffee catchup 
 
+Unfortunately I've had to cancel this catch-up due to lack of
+sign-ups this month.
+
+Hopefully see you next month.
+
 #### Date: Sunday 5th May, 11am - 12:30pm 
 #### Location: Harbord Diggers, Freshwater
 
