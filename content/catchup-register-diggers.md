@@ -12,7 +12,7 @@ sign-ups this month.
 
 Hopefully see you next month.
 
-#### Date: Sunday 5th May, 11am - 12:30pm 
+#### Date: Sunday 7nd June, 11am - 12:30pm 
 #### Location: Harbord Diggers, Freshwater
 
 [comment]: <> (#### Please fill in the details below to register.)
