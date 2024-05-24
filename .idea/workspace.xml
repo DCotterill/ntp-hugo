@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="022b488e-736a-4ef9-8786-d1d7819c4f2a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/catchup-register-diggers.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/catchup-register-diggers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/shortcodes/catchup-register-mosman.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/shortcodes/catchup-register-mosman.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,7 +262,7 @@
       <workItem from="1714607134083" duration="624000" />
       <workItem from="1714813461567" duration="952000" />
       <workItem from="1715217050745" duration="27000" />
-      <workItem from="1716508785397" duration="89000" />
+      <workItem from="1716508785397" duration="613000" />
     </task>
     <servers />
   </component>
