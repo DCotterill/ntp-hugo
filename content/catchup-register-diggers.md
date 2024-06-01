@@ -15,7 +15,7 @@ Hopefully see you next month.
 #### Date: Sunday 2nd June, 11am - 12:30pm 
 #### Location: Harbord Diggers, Freshwater
 
-#### Please fill in the details below to register.
+[comment]: <> (#### Please fill in the details below to register.)
 
 [comment]: <> ({{< catchup-register-mosman >}} )
 
