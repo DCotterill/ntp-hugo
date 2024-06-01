@@ -264,7 +264,9 @@
       <workItem from="1714813461567" duration="952000" />
       <workItem from="1715217050745" duration="27000" />
       <workItem from="1716508785397" duration="1272000" />
-      <workItem from="1716598862278" duration="6000" />
+      <workItem from="1716598862278" duration="655000" />
+      <workItem from="1716790091725" duration="598000" />
+      <workItem from="1717216738702" duration="162000" />
     </task>
     <servers />
   </component>
@@ -272,12 +274,12 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ORDER">
+    <option name="COLUMN_ID_ORDER">
       <list>
-        <option value="0" />
-        <option value="2" />
-        <option value="3" />
-        <option value="1" />
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
       </list>
     </option>
   </component>
